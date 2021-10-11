@@ -55,7 +55,8 @@ public class Enemies : MonoBehaviour
     {
         if(health <= 0)
         {
-            
+            //kuk - Johan
+            //kuk - Johan
             Destroy(gameObject);
         }
     }

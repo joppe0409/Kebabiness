@@ -6,7 +6,6 @@ public class mainmenuscript : MonoBehaviour
 {
     public void quitGame() 
     {
-        print("quit test");
         Application.Quit();
 
     }

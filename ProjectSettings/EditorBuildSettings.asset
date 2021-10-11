@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 089b141d423dc61429c49d10f8297d68
+  - enabled: 1
+    path: Assets/Scenes/Johan.unity
+    guid: 616cf00270192ca49946118fa25ea2b4
   m_configObjects: {}

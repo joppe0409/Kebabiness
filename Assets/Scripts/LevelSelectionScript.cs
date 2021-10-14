@@ -8,6 +8,7 @@ public class LevelSelectionScript : MonoBehaviour
 {
     public void startLevel(string level) 
     {
-        SceneManager.LoadScene(level);
+        SceneManager.LoadScene(level); //
+        
     }
 }

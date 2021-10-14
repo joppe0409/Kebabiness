@@ -1,12 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
+    public GameObject floatingText;
 
     public int health;
-
     public GameObject[] enemies;
     public Vector3[] spawnPos;
 
@@ -20,6 +20,7 @@ public class Enemies : MonoBehaviour
     void Start()
     {
         rb = this.GetComponent<Rigidbody2D>();
+       
     }
 
     // Update is called once per frame
@@ -49,7 +50,7 @@ public class Enemies : MonoBehaviour
     {
         health = -1;
         print("pang");
-        //screentext.instance.popup("hit!!!");
+        Instantiate(floatingText, transform.position, Quaternion.identity);
     }
  
     public void die()

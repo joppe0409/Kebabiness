@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.574817, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -604,6 +604,36 @@ MonoBehaviour:
   moveSpeed: 5
   rb: {fileID: 750407996}
   animator: {fileID: 0}
+--- !u!1 &1068546926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1068546927}
+  m_Layer: 0
+  m_Name: firePoint (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1068546927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1068546926}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 1.87, y: -7.24, z: -0.12}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1367352039}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!1 &1194700420
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,11 +861,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2580991800480306757, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.87
+      value: 1.57
       objectReference: {fileID: 0}
     - target: {fileID: 2580991800480306757, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.25
+      value: 7.94
       objectReference: {fileID: 0}
     - target: {fileID: 2580991800480306757, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_LocalRotation.w
@@ -901,6 +931,26 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2580991801726536818, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+      propertyPath: rb
+      value: 
+      objectReference: {fileID: 3140487033661545156, guid: 171bc889af3cfbe488cc75f9eb9b436f, type: 3}
+    - target: {fileID: 2580991801726536818, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+      propertyPath: rb2
+      value: 
+      objectReference: {fileID: 3140487033661545156, guid: 721575cb490c9114c8c573e895b0e645, type: 3}
+    - target: {fileID: 2580991801726536818, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580991801726536818, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+      propertyPath: bullet2
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580991801726536818, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+      propertyPath: firePoint2
+      value: 
+      objectReference: {fileID: 1068546927}
     - target: {fileID: 2580991801726536819, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_Size.x
       value: 20.48
@@ -912,7 +962,7 @@ PrefabInstance:
     - target: {fileID: 2580991801726536819, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: b02df9410d4373449b346d41c3cae2a4, type: 3}
+      objectReference: {fileID: 21300000, guid: a8c1bbe2c28505c4ca2d08ece8c2be32, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
 --- !u!1001 &6525049299655208156

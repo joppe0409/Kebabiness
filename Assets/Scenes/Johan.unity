@@ -350,6 +350,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1367352039}
+    - target: {fileID: 1322840300966307874, guid: 8067aebf17021414bb56e5000f1b6253, type: 3}
+      propertyPath: floatingText
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2247190553102220603, guid: 8067aebf17021414bb56e5000f1b6253, type: 3}
       propertyPath: m_Name
       value: Enemy
@@ -555,6 +559,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1367352039}
+    - target: {fileID: 4744395714616234973, guid: e19e8db1f2217114fb56d579a4789c8f, type: 3}
+      propertyPath: floatingText
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e19e8db1f2217114fb56d579a4789c8f, type: 3}
 --- !u!1 &744232831 stripped

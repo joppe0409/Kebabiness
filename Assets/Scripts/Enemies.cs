@@ -15,10 +15,11 @@ public class Enemies : MonoBehaviour
     private Vector2 movement;
     public float moveSpeed = 5f;
 
-
+   
     // Start is called before the first frame update
     void Start()
     {
+        
         rb = this.GetComponent<Rigidbody2D>();
        
     }
@@ -48,9 +49,10 @@ public class Enemies : MonoBehaviour
 
     public void takeDamage()
     {
+        Instantiate(floatingText, transform.position, Quaternion.identity);
         health = -1;
         print("pang");
-       
+  
     }
  
     public void die()

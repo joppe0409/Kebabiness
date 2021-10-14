@@ -49,6 +49,7 @@ public class Enemies : MonoBehaviour
     {
         health = -1;
         print("pang");
+        //screentext.instance.popup("hit!!!");
     }
  
     public void die()

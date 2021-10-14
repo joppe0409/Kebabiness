@@ -102,6 +102,7 @@ MonoBehaviour:
   enemies: []
   spawnPos: []
   player: {fileID: 5360546077975224452, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+  moveSpeed: 5
 --- !u!114 &2276425193146343307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118,6 +119,7 @@ MonoBehaviour:
   enemies: []
   spawnPos: []
   player: {fileID: 0}
+  moveSpeed: 5
 --- !u!61 &704710319418921043
 BoxCollider2D:
   m_ObjectHideFlags: 0

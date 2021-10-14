@@ -1,12 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
+    public GameObject floatingText;
 
     public int health;
-
     public GameObject[] enemies;
     public Vector3[] spawnPos;
 
@@ -15,11 +15,13 @@ public class Enemies : MonoBehaviour
     private Vector2 movement;
     public float moveSpeed = 5f;
 
-
+   
     // Start is called before the first frame update
     void Start()
     {
+        
         rb = this.GetComponent<Rigidbody2D>();
+       
     }
 
     // Update is called once per frame
@@ -47,16 +49,19 @@ public class Enemies : MonoBehaviour
 
     public void takeDamage()
     {
+        Instantiate(floatingText, transform.position, Quaternion.identity);
+       
         health = -1;
         print("pang");
-        //screentext.instance.popup("hit!!!");
+  
     }
  
     public void die()
     {
         if(health <= 0)
         {
-            
+            Instantiate(floatingText, transform.position, Quaternion.identity);
+          
             Destroy(gameObject);
         }
     }

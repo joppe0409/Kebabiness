@@ -43,6 +43,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d44c54dc7e6be24f8441cae6db91fbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  floatingText: {fileID: 499772404088797308, guid: fbee584b597a44948841b115c3dd8370, type: 3}
   health: 0
   enemies: []
   spawnPos: []
+  player: {fileID: 0}
+  moveSpeed: 5

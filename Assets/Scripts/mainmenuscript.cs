@@ -6,7 +6,7 @@ public class mainmenuscript : MonoBehaviour
 {
     public void quitGame() 
     {
-        Application.Quit();
+        Application.Quit(); //
 
     }
 }

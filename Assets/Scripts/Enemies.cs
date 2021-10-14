@@ -49,7 +49,8 @@ public class Enemies : MonoBehaviour
 
     public void takeDamage()
     {
-        Instantiate(floatingText, transform.position, Quaternion.identity);
+      Text popup =  Instantiate(floatingText, transform.position, Quaternion.identity).GetComponent<Text>();
+        popup.text = "Hit!";
         health = -1;
         print("pang");
   
@@ -59,6 +60,8 @@ public class Enemies : MonoBehaviour
     {
         if(health <= 0)
         {
+            Text popup = Instantiate(floatingText, transform.position, Quaternion.identity).GetComponent<Text>();
+            popup.text = "It died :)";
             Destroy(gameObject);
         }
     }

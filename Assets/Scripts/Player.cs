@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -10,6 +11,13 @@ public class Player : MonoBehaviour
     public Animator animator;
 
     Vector2 movement;
+
+    float playerHP = 3;
+
+    public void Start()
+    {
+        playerHP = 3;
+    }
 
 
     void Update()
@@ -37,11 +45,29 @@ public class Player : MonoBehaviour
         }
         transform.localScale = characterScale;*/
 
+        if (playerHP <= 0)
+        {
+            PlayerDeath();
+        }
+
     }
 
     void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "enemy")
+        {
+            playerHP -= 1;
+        }
+    }
+
+    private void PlayerDeath()
+    {
+        SceneManager.LoadScene("MainMenu");
     }
 
 

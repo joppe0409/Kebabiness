@@ -50,14 +50,13 @@ public class Enemies : MonoBehaviour
     {
         health = -1;
         print("pang");
-        Instantiate(floatingText, transform.position, Quaternion.identity);
+       
     }
  
     public void die()
     {
         if(health <= 0)
         {
-            
             Destroy(gameObject);
         }
     }

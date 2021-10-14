@@ -143,6 +143,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: floatingText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: enemies.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -430,6 +434,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7675078676884027184, guid: 8067aebf17021414bb56e5000f1b6253, type: 3}
+      propertyPath: floatingText
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8067aebf17021414bb56e5000f1b6253, type: 3}
 --- !u!1001 &735838150
@@ -567,6 +575,31 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1 &750407993 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2580991801726536816, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+  m_PrefabInstance: {fileID: 2580991801538652352}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &750407996 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 2580991801726536820, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+  m_PrefabInstance: {fileID: 2580991801538652352}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &750407999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750407993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2073d83bbb0cdc0448c1a66a46e62ee2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  rb: {fileID: 750407996}
+  animator: {fileID: 0}
 --- !u!1 &1194700420
 GameObject:
   m_ObjectHideFlags: 0
@@ -847,6 +880,10 @@ PrefabInstance:
     - target: {fileID: 2580991801726536816, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_Name
       value: Spelare
+      objectReference: {fileID: 0}
+    - target: {fileID: 2580991801726536817, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}

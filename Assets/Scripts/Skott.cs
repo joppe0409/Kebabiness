@@ -53,9 +53,9 @@ public class Skott : MonoBehaviour
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>(); // Här hämtar koden bullets ridgidbody 2d, Johan.
         rb.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse); // Här tas ridgodbodyn och lägger till en kraft i firepoints up position vilket alltid kommer vara håller firepoint pekar, sen multipliceras det med bulletforce och till sist skrivs det att kraften ska vara i impulse mode, Johan.
 
-        bullet2 = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        bullet2 = Instantiate(bulletPrefab, firePoint2.position, firePoint2.rotation);
         Rigidbody2D rb2 = bullet2.GetComponent<Rigidbody2D>();
-        rb.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
+        rb2.AddForce(firePoint2.up * bulletForce, ForceMode2D.Impulse);
     }
 
 

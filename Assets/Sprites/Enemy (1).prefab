@@ -98,11 +98,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d44c54dc7e6be24f8441cae6db91fbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  floatingText: {fileID: 0}
   health: 0
   enemies: []
   spawnPos: []
   player: {fileID: 5360546077975224452, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
   moveSpeed: 5
+  spawnTrue: 0
+  damage: 0
 --- !u!114 &2276425193146343307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115,11 +118,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3ea40fd13fa09148836fe4c2aaf7fb9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  floatingText: {fileID: 0}
   health: 1
   enemies: []
   spawnPos: []
   player: {fileID: 0}
   moveSpeed: 5
+  spawnTrue: 0
+  damage: 0
 --- !u!61 &704710319418921043
 BoxCollider2D:
   m_ObjectHideFlags: 0

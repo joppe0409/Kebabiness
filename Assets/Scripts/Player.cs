@@ -12,14 +12,14 @@ public class Player : MonoBehaviour
 
     Vector2 movement;
 
-    public float playerHP = 5;
-
-    public UI ui;
+    // Variabler för spelarens hp - Meher
+    public float playerHP;
+    public UI ui; // Refererar till UI skriptet för att använda funktioner för att ändra på health bar - Meher
 
     public void Start()
     {
         playerHP = 5;
-        ui.UpdateHealth(1);
+        ui.UpdateHealth(1); // Sätter värdet på healthbaren till 1 - Meher
     }
 
 
@@ -53,10 +53,6 @@ public class Player : MonoBehaviour
             PlayerDeath();
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage();
-        }
 
     }
 
@@ -65,25 +61,29 @@ public class Player : MonoBehaviour
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 
-   /* private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "enemy")
         {
             TakeDamage();
         }
     }
-    */
-    public void TakeDamage()
+    
+    public void TakeDamage() // Funktion som både ändrar på healthbaren och hp variabeln på spelaren - Meher
     {
         playerHP--;
         ui.UpdateHealth(ui.getHealth() - 0.2f);
     }
 
-    public void PlayerDeath()
+    public void PlayerDeath() // Funktion som kallas på när spelaren dör - Meher
     {
         SceneManager.LoadScene("MainMenu");
     }
 
+    private IEnumerator InvincibilityFrames()
+    {
+        yield return null;
+    }
 
 
 

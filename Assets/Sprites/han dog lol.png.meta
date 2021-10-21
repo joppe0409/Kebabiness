@@ -1,0 +1,4698 @@
+fileFormatVersion: 2
+guid: eaf5d5c77fdd90b44b2091cb1d383952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4084175565208120854
+    second: han dog lol_0
+  - first:
+      213: 7526898250703660337
+    second: han dog lol_1
+  - first:
+      213: -3594119021817881368
+    second: han dog lol_2
+  - first:
+      213: -8591905439114166687
+    second: han dog lol_3
+  - first:
+      213: -4469991767376131577
+    second: han dog lol_4
+  - first:
+      213: -1508546584721834573
+    second: han dog lol_5
+  - first:
+      213: -2581508271407733450
+    second: han dog lol_6
+  - first:
+      213: -541369675164861651
+    second: han dog lol_7
+  - first:
+      213: -8905800012962010703
+    second: han dog lol_8
+  - first:
+      213: -2324985736731645515
+    second: han dog lol_9
+  - first:
+      213: 1189302163999645271
+    second: han dog lol_10
+  - first:
+      213: -1027198553761871510
+    second: han dog lol_11
+  - first:
+      213: -9100738419886233754
+    second: han dog lol_12
+  - first:
+      213: -8385513682467883320
+    second: han dog lol_13
+  - first:
+      213: 118433151893588819
+    second: han dog lol_14
+  - first:
+      213: 7094034196670907785
+    second: han dog lol_15
+  - first:
+      213: -6687017642075153035
+    second: han dog lol_16
+  - first:
+      213: 234291297625108064
+    second: han dog lol_17
+  - first:
+      213: -1705819238533918266
+    second: han dog lol_18
+  - first:
+      213: -7461629330848620774
+    second: han dog lol_19
+  - first:
+      213: -2553410733015596102
+    second: han dog lol_20
+  - first:
+      213: -5370621178652583031
+    second: han dog lol_21
+  - first:
+      213: 8132654086771053155
+    second: han dog lol_22
+  - first:
+      213: -1840014882741326928
+    second: han dog lol_23
+  - first:
+      213: -3370799323805970805
+    second: han dog lol_24
+  - first:
+      213: 1713765508595006782
+    second: han dog lol_25
+  - first:
+      213: 8571047840476802619
+    second: han dog lol_26
+  - first:
+      213: 2701528448536386351
+    second: han dog lol_27
+  - first:
+      213: 4386996800565105047
+    second: han dog lol_28
+  - first:
+      213: 2167532738262185522
+    second: han dog lol_29
+  - first:
+      213: -6115802535991492278
+    second: han dog lol_30
+  - first:
+      213: -6895805183463953952
+    second: han dog lol_31
+  - first:
+      213: -1646051733394918132
+    second: han dog lol_32
+  - first:
+      213: 2030274804816769498
+    second: han dog lol_33
+  - first:
+      213: 8552919349980119110
+    second: han dog lol_34
+  - first:
+      213: 5268936689671802028
+    second: han dog lol_35
+  - first:
+      213: -5013555752719877011
+    second: han dog lol_36
+  - first:
+      213: 1835291020525100802
+    second: han dog lol_37
+  - first:
+      213: -2727433944658932317
+    second: han dog lol_38
+  - first:
+      213: 1540198809575539254
+    second: han dog lol_39
+  - first:
+      213: -3347350737089371647
+    second: han dog lol_40
+  - first:
+      213: 8588893901997915563
+    second: han dog lol_41
+  - first:
+      213: 8133184980392359669
+    second: han dog lol_42
+  - first:
+      213: -8088331924470657652
+    second: han dog lol_43
+  - first:
+      213: -7953751623024196495
+    second: han dog lol_44
+  - first:
+      213: -3522111058980240736
+    second: han dog lol_45
+  - first:
+      213: 7625035440233825992
+    second: han dog lol_46
+  - first:
+      213: -1735135670513381984
+    second: han dog lol_47
+  - first:
+      213: -429115947000357250
+    second: han dog lol_48
+  - first:
+      213: -5800780008278788082
+    second: han dog lol_49
+  - first:
+      213: -991231406532865064
+    second: han dog lol_50
+  - first:
+      213: 2551862296021048541
+    second: han dog lol_51
+  - first:
+      213: -8661827301795466323
+    second: han dog lol_52
+  - first:
+      213: 516463302874709475
+    second: han dog lol_53
+  - first:
+      213: -6762259028877499299
+    second: han dog lol_54
+  - first:
+      213: -1785608406156525311
+    second: han dog lol_55
+  - first:
+      213: 9177333905868208962
+    second: han dog lol_56
+  - first:
+      213: -1393246586573435279
+    second: han dog lol_57
+  - first:
+      213: -3463978489866995973
+    second: han dog lol_58
+  - first:
+      213: -8335507142950152671
+    second: han dog lol_59
+  - first:
+      213: -4691233455115962159
+    second: han dog lol_60
+  - first:
+      213: 8958078450757531626
+    second: han dog lol_61
+  - first:
+      213: -3244006881311348556
+    second: han dog lol_62
+  - first:
+      213: -4859194977671708362
+    second: han dog lol_63
+  - first:
+      213: -942597541402622412
+    second: han dog lol_64
+  - first:
+      213: 994652110895325356
+    second: han dog lol_65
+  - first:
+      213: 7830311606922669373
+    second: han dog lol_66
+  - first:
+      213: -3723003096286340370
+    second: han dog lol_67
+  - first:
+      213: 8189665605275761638
+    second: han dog lol_68
+  - first:
+      213: -4996003982919920590
+    second: han dog lol_69
+  - first:
+      213: 5118858003919856378
+    second: han dog lol_70
+  - first:
+      213: -5492058811085532365
+    second: han dog lol_71
+  - first:
+      213: -7273274357336324493
+    second: han dog lol_72
+  - first:
+      213: -3720503862571139689
+    second: han dog lol_73
+  - first:
+      213: -6523750757434272747
+    second: han dog lol_74
+  - first:
+      213: 7324479299925659188
+    second: han dog lol_75
+  - first:
+      213: -5759872246914319271
+    second: han dog lol_76
+  - first:
+      213: -8429607295928535466
+    second: han dog lol_77
+  - first:
+      213: 1579736269749858692
+    second: han dog lol_78
+  - first:
+      213: 6271172214678027875
+    second: han dog lol_79
+  - first:
+      213: -136512215569650303
+    second: han dog lol_80
+  - first:
+      213: 2410518927111725507
+    second: han dog lol_81
+  - first:
+      213: -2191356196026141701
+    second: han dog lol_82
+  - first:
+      213: -7240368917237096294
+    second: han dog lol_83
+  - first:
+      213: -7191806739108052325
+    second: han dog lol_84
+  - first:
+      213: -6036499042481159527
+    second: han dog lol_85
+  - first:
+      213: -4295577619925503350
+    second: han dog lol_86
+  - first:
+      213: 2941281938500027799
+    second: han dog lol_87
+  - first:
+      213: 3936948130657452616
+    second: han dog lol_88
+  - first:
+      213: -5740310607039377199
+    second: han dog lol_89
+  - first:
+      213: -23006546397142180
+    second: han dog lol_90
+  - first:
+      213: -1191386295808493629
+    second: han dog lol_91
+  - first:
+      213: -8494235337092563230
+    second: han dog lol_92
+  - first:
+      213: -2212518108449329354
+    second: han dog lol_93
+  - first:
+      213: 5478157924415926454
+    second: han dog lol_94
+  - first:
+      213: -7732934567187722360
+    second: han dog lol_95
+  - first:
+      213: 4613361249504462939
+    second: han dog lol_96
+  - first:
+      213: 784750311487451067
+    second: han dog lol_97
+  - first:
+      213: 6349287657846208395
+    second: han dog lol_98
+  - first:
+      213: 1682142613024375957
+    second: han dog lol_99
+  - first:
+      213: -2449796451544748378
+    second: han dog lol_100
+  - first:
+      213: -1018847440398735450
+    second: han dog lol_101
+  - first:
+      213: -3966471333254299896
+    second: han dog lol_102
+  - first:
+      213: -7993219742452449417
+    second: han dog lol_103
+  - first:
+      213: 7606505838364811650
+    second: han dog lol_104
+  - first:
+      213: -5187333670927626668
+    second: han dog lol_105
+  - first:
+      213: -3333372984550443330
+    second: han dog lol_106
+  - first:
+      213: -3675527276883213581
+    second: han dog lol_107
+  - first:
+      213: 1943310283137423984
+    second: han dog lol_108
+  - first:
+      213: -5139118616284629068
+    second: han dog lol_109
+  - first:
+      213: 3204625738338481115
+    second: han dog lol_110
+  - first:
+      213: 2096760024933263492
+    second: han dog lol_111
+  - first:
+      213: -536708006614041376
+    second: han dog lol_112
+  - first:
+      213: 2293180750619087994
+    second: han dog lol_113
+  - first:
+      213: 8535810588784751608
+    second: han dog lol_114
+  - first:
+      213: -5695055045569864535
+    second: han dog lol_115
+  - first:
+      213: -1698678745962775331
+    second: han dog lol_116
+  - first:
+      213: 1067645772359367504
+    second: han dog lol_117
+  - first:
+      213: 2646442819328085689
+    second: han dog lol_118
+  - first:
+      213: 3419292102040105674
+    second: han dog lol_119
+  - first:
+      213: -5514486856802141864
+    second: han dog lol_120
+  - first:
+      213: 5473737999601597100
+    second: han dog lol_121
+  - first:
+      213: -6930883998829026196
+    second: han dog lol_122
+  - first:
+      213: 8508739098250755598
+    second: han dog lol_123
+  - first:
+      213: 4085290293826126632
+    second: han dog lol_124
+  - first:
+      213: 7772300482399708597
+    second: han dog lol_125
+  - first:
+      213: 2257720142651800953
+    second: han dog lol_126
+  - first:
+      213: -2603959531193811812
+    second: han dog lol_127
+  - first:
+      213: -3075840109640718015
+    second: han dog lol_128
+  - first:
+      213: 7399465164256511520
+    second: han dog lol_129
+  - first:
+      213: -3192048259225469733
+    second: han dog lol_130
+  - first:
+      213: -617165425511762405
+    second: han dog lol_131
+  - first:
+      213: 5701994868510958853
+    second: han dog lol_132
+  - first:
+      213: 2277369172421217566
+    second: han dog lol_133
+  - first:
+      213: -7877593134748045220
+    second: han dog lol_134
+  - first:
+      213: 3131519070757950591
+    second: han dog lol_135
+  - first:
+      213: -7346699576307062197
+    second: han dog lol_136
+  - first:
+      213: -3742924739484391091
+    second: han dog lol_137
+  - first:
+      213: -2983881977884715392
+    second: han dog lol_138
+  - first:
+      213: 536343596537744920
+    second: han dog lol_139
+  - first:
+      213: 3944620078933802554
+    second: han dog lol_140
+  - first:
+      213: 5930916193599624825
+    second: han dog lol_141
+  - first:
+      213: 9195767814166091611
+    second: han dog lol_142
+  - first:
+      213: 1743396724128248586
+    second: han dog lol_143
+  - first:
+      213: 3416044597343349083
+    second: han dog lol_144
+  - first:
+      213: 3357098549966535362
+    second: han dog lol_145
+  - first:
+      213: -2694592169219370032
+    second: han dog lol_146
+  - first:
+      213: 3934662967137401262
+    second: han dog lol_147
+  - first:
+      213: -297218342956185357
+    second: han dog lol_148
+  - first:
+      213: -6100288561267679216
+    second: han dog lol_149
+  - first:
+      213: -2467011783583729348
+    second: han dog lol_150
+  - first:
+      213: 3748544322109913829
+    second: han dog lol_151
+  - first:
+      213: -4424285143108589453
+    second: han dog lol_152
+  - first:
+      213: 2217699950671724988
+    second: han dog lol_153
+  - first:
+      213: -1521376665146217622
+    second: han dog lol_154
+  - first:
+      213: 6767448750802008746
+    second: han dog lol_155
+  - first:
+      213: -3634851108638515899
+    second: han dog lol_156
+  - first:
+      213: 6337019218536438425
+    second: han dog lol_157
+  - first:
+      213: -3612710503950432143
+    second: han dog lol_158
+  - first:
+      213: 6665109930834605209
+    second: han dog lol_159
+  - first:
+      213: 2638022354801422045
+    second: han dog lol_160
+  - first:
+      213: 1418023589476582467
+    second: han dog lol_161
+  - first:
+      213: -839071654529898031
+    second: han dog lol_162
+  - first:
+      213: 2406984775229032242
+    second: han dog lol_163
+  - first:
+      213: -6576549479371577641
+    second: han dog lol_164
+  - first:
+      213: 6876367904441277636
+    second: han dog lol_165
+  - first:
+      213: 6483438921624083658
+    second: han dog lol_166
+  - first:
+      213: 2236308025372588728
+    second: han dog lol_167
+  - first:
+      213: 7061049166608685135
+    second: han dog lol_168
+  - first:
+      213: 4020998974283170106
+    second: han dog lol_169
+  - first:
+      213: 4436196868963432281
+    second: han dog lol_170
+  - first:
+      213: 6244689551179073312
+    second: han dog lol_171
+  - first:
+      213: 2444736920292703838
+    second: han dog lol_172
+  - first:
+      213: 1630670729019034352
+    second: han dog lol_173
+  - first:
+      213: 2050885199746974601
+    second: han dog lol_174
+  - first:
+      213: 3853656986475351101
+    second: han dog lol_175
+  - first:
+      213: 3653555434426299370
+    second: han dog lol_176
+  - first:
+      213: 3083313149382779056
+    second: han dog lol_177
+  - first:
+      213: 3687658456455341156
+    second: han dog lol_178
+  - first:
+      213: -5286444096373252819
+    second: han dog lol_179
+  - first:
+      213: -1823668945789466652
+    second: han dog lol_180
+  - first:
+      213: -1782121082105901529
+    second: han dog lol_181
+  - first:
+      213: -852395353508439361
+    second: han dog lol_182
+  - first:
+      213: 6773537229137549178
+    second: han dog lol_183
+  - first:
+      213: -2214970793068592814
+    second: han dog lol_184
+  - first:
+      213: -6846334502798508086
+    second: han dog lol_185
+  - first:
+      213: 5760071132756024563
+    second: han dog lol_186
+  - first:
+      213: -8340777060248318612
+    second: han dog lol_187
+  - first:
+      213: -7891971225432684730
+    second: han dog lol_188
+  - first:
+      213: -6903543375711996374
+    second: han dog lol_189
+  - first:
+      213: 608057424499416530
+    second: han dog lol_190
+  - first:
+      213: 5264896457143541615
+    second: han dog lol_191
+  - first:
+      213: 2047701016730554461
+    second: han dog lol_192
+  - first:
+      213: -2507626355118921076
+    second: han dog lol_193
+  - first:
+      213: -8175187217791655659
+    second: han dog lol_194
+  - first:
+      213: -2967906544509235341
+    second: han dog lol_195
+  - first:
+      213: 7343680154728461549
+    second: han dog lol_196
+  - first:
+      213: -5709010200981168760
+    second: han dog lol_197
+  - first:
+      213: -4811498823126769847
+    second: han dog lol_198
+  - first:
+      213: -4758114759719154049
+    second: han dog lol_199
+  - first:
+      213: 5900191850206885409
+    second: han dog lol_200
+  - first:
+      213: -5740144944620620204
+    second: han dog lol_201
+  - first:
+      213: -1188952556679509627
+    second: han dog lol_202
+  - first:
+      213: 7392331229792037600
+    second: han dog lol_203
+  - first:
+      213: -8529464759384973981
+    second: han dog lol_204
+  - first:
+      213: 2033941006853887557
+    second: han dog lol_205
+  - first:
+      213: 6414281296034958676
+    second: han dog lol_206
+  - first:
+      213: 115640406576240465
+    second: han dog lol_207
+  - first:
+      213: 3989754009026493624
+    second: han dog lol_208
+  - first:
+      213: -3918586115320292040
+    second: han dog lol_209
+  - first:
+      213: -5185716179289416657
+    second: han dog lol_210
+  - first:
+      213: 2259292286794356224
+    second: han dog lol_211
+  - first:
+      213: 2783685172292861951
+    second: han dog lol_212
+  - first:
+      213: 3593984748008874413
+    second: han dog lol_213
+  - first:
+      213: -2689290478978367933
+    second: han dog lol_214
+  - first:
+      213: -1690082834149800494
+    second: han dog lol_215
+  - first:
+      213: -1198029888865048534
+    second: han dog lol_216
+  - first:
+      213: -4392606444360959
+    second: han dog lol_217
+  - first:
+      213: 5864669911575154059
+    second: han dog lol_218
+  - first:
+      213: 6204516494636638046
+    second: han dog lol_219
+  - first:
+      213: 5497263702372809518
+    second: han dog lol_220
+  - first:
+      213: 2679452238384369111
+    second: han dog lol_221
+  - first:
+      213: -40276764767172581
+    second: han dog lol_222
+  - first:
+      213: -699428890702312055
+    second: han dog lol_223
+  - first:
+      213: -2869168487898248547
+    second: han dog lol_224
+  - first:
+      213: 6118631855719227770
+    second: han dog lol_225
+  - first:
+      213: -3401916311641837570
+    second: han dog lol_226
+  - first:
+      213: 4868352187514077922
+    second: han dog lol_227
+  - first:
+      213: -3823089092456681191
+    second: han dog lol_228
+  - first:
+      213: -5022134180574109505
+    second: han dog lol_229
+  - first:
+      213: 5593440993301194309
+    second: han dog lol_230
+  - first:
+      213: -2805167794947962691
+    second: han dog lol_231
+  - first:
+      213: 8267309464286465499
+    second: han dog lol_232
+  - first:
+      213: -8088487381511992464
+    second: han dog lol_233
+  - first:
+      213: 5009164207034331554
+    second: han dog lol_234
+  - first:
+      213: -4193775259266047254
+    second: han dog lol_235
+  - first:
+      213: 6301930594561839930
+    second: han dog lol_236
+  - first:
+      213: -4313946517064774200
+    second: han dog lol_237
+  - first:
+      213: 4130546154798948125
+    second: han dog lol_238
+  - first:
+      213: -6135239740501437974
+    second: han dog lol_239
+  - first:
+      213: 1834611154356376246
+    second: han dog lol_240
+  - first:
+      213: 1718579071316300939
+    second: han dog lol_241
+  - first:
+      213: 9122065015633850690
+    second: han dog lol_242
+  - first:
+      213: -2198062018023378027
+    second: han dog lol_243
+  - first:
+      213: -7356055965304250995
+    second: han dog lol_244
+  - first:
+      213: 4179596297724518456
+    second: han dog lol_245
+  - first:
+      213: -1365976955352379929
+    second: han dog lol_246
+  - first:
+      213: -2269137641658252039
+    second: han dog lol_247
+  - first:
+      213: 4114283283421947693
+    second: han dog lol_248
+  - first:
+      213: -4180138690890548215
+    second: han dog lol_249
+  - first:
+      213: -5500093698661454081
+    second: han dog lol_250
+  - first:
+      213: -5807303742982407205
+    second: han dog lol_251
+  - first:
+      213: -8971412166810313319
+    second: han dog lol_252
+  - first:
+      213: -8832400272975987821
+    second: han dog lol_253
+  - first:
+      213: 4816397898374559611
+    second: han dog lol_254
+  - first:
+      213: 1581992830673729139
+    second: han dog lol_255
+  - first:
+      213: -1815154084785032364
+    second: han dog lol_256
+  - first:
+      213: -391943051663694138
+    second: han dog lol_257
+  - first:
+      213: -8749328673142017437
+    second: han dog lol_258
+  - first:
+      213: -705356861557909896
+    second: han dog lol_259
+  - first:
+      213: -865870546443989889
+    second: han dog lol_260
+  - first:
+      213: 6853226290510862695
+    second: han dog lol_261
+  - first:
+      213: 1145410104584963285
+    second: han dog lol_262
+  - first:
+      213: -1211704730002553533
+    second: han dog lol_263
+  - first:
+      213: 1501766687632393446
+    second: han dog lol_264
+  - first:
+      213: 4445843861876032421
+    second: han dog lol_265
+  - first:
+      213: -8636714672725002397
+    second: han dog lol_266
+  - first:
+      213: -3298119824606353435
+    second: han dog lol_267
+  - first:
+      213: -1901252839631873406
+    second: han dog lol_268
+  - first:
+      213: 6069241984252195087
+    second: han dog lol_269
+  - first:
+      213: -971572538063246583
+    second: han dog lol_270
+  - first:
+      213: 3918748462600926103
+    second: han dog lol_271
+  - first:
+      213: 7431042737169733540
+    second: han dog lol_272
+  - first:
+      213: -7904620477172519277
+    second: han dog lol_273
+  - first:
+      213: -4387151692787296538
+    second: han dog lol_274
+  - first:
+      213: 3939163171863915119
+    second: han dog lol_275
+  - first:
+      213: 4322181495070459759
+    second: han dog lol_276
+  - first:
+      213: -681686181978642704
+    second: han dog lol_277
+  - first:
+      213: -3374110021855777350
+    second: han dog lol_278
+  - first:
+      213: 4707190817409488956
+    second: han dog lol_279
+  - first:
+      213: 405471658748828270
+    second: han dog lol_280
+  - first:
+      213: 6457983681376670870
+    second: han dog lol_281
+  - first:
+      213: 6386997828333659464
+    second: han dog lol_282
+  - first:
+      213: -2854948704293117670
+    second: han dog lol_283
+  - first:
+      213: -2345557140711181328
+    second: han dog lol_284
+  - first:
+      213: -7599975264995033785
+    second: han dog lol_285
+  - first:
+      213: -7604233183066673042
+    second: han dog lol_286
+  - first:
+      213: 2330669486148410046
+    second: han dog lol_287
+  - first:
+      213: 719987848759324303
+    second: han dog lol_288
+  - first:
+      213: 4664757411375126862
+    second: han dog lol_289
+  - first:
+      213: -7017854913026873811
+    second: han dog lol_290
+  - first:
+      213: 2316196819277603853
+    second: han dog lol_291
+  - first:
+      213: 8578845412705749320
+    second: han dog lol_292
+  - first:
+      213: 9093630135586769443
+    second: han dog lol_293
+  - first:
+      213: 6469677844082260395
+    second: han dog lol_294
+  - first:
+      213: 1474510368462658456
+    second: han dog lol_295
+  - first:
+      213: 5950618193712227791
+    second: han dog lol_296
+  - first:
+      213: 2480024769397009329
+    second: han dog lol_297
+  - first:
+      213: -7103570675043040273
+    second: han dog lol_298
+  - first:
+      213: -729606398486981373
+    second: han dog lol_299
+  - first:
+      213: -6566334067198899741
+    second: han dog lol_300
+  - first:
+      213: 2797942356476227499
+    second: han dog lol_301
+  - first:
+      213: -5157051988267403454
+    second: han dog lol_302
+  - first:
+      213: -1305159595545594528
+    second: han dog lol_303
+  - first:
+      213: 3939789917756958769
+    second: han dog lol_304
+  - first:
+      213: 6047027017949985753
+    second: han dog lol_305
+  - first:
+      213: -4859586970948271004
+    second: han dog lol_306
+  - first:
+      213: 7297679387228445418
+    second: han dog lol_307
+  - first:
+      213: 6995249614874827121
+    second: han dog lol_308
+  - first:
+      213: -1747015572110871001
+    second: han dog lol_309
+  - first:
+      213: 8655172067590955114
+    second: han dog lol_310
+  - first:
+      213: -3005342849438722903
+    second: han dog lol_311
+  - first:
+      213: 3366366300763952135
+    second: han dog lol_312
+  - first:
+      213: -2577318254167405549
+    second: han dog lol_313
+  - first:
+      213: -1394899832416886606
+    second: han dog lol_314
+  - first:
+      213: 8494975790999105117
+    second: han dog lol_315
+  - first:
+      213: -684895934740978792
+    second: han dog lol_316
+  - first:
+      213: 3168785079548604004
+    second: han dog lol_317
+  - first:
+      213: 6320283387045190201
+    second: han dog lol_318
+  - first:
+      213: -1966521320043869488
+    second: han dog lol_319
+  - first:
+      213: -3807827420255153143
+    second: han dog lol_320
+  - first:
+      213: 3322944856033591799
+    second: han dog lol_321
+  - first:
+      213: 3593912878569520212
+    second: han dog lol_322
+  - first:
+      213: 7809523092282723373
+    second: han dog lol_323
+  - first:
+      213: -4813678765394647067
+    second: han dog lol_324
+  - first:
+      213: -4086762544622816970
+    second: han dog lol_325
+  - first:
+      213: -951828609652616944
+    second: han dog lol_326
+  - first:
+      213: -5367134689005878918
+    second: han dog lol_327
+  - first:
+      213: -8288064120817255592
+    second: han dog lol_328
+  - first:
+      213: 3048402916711328513
+    second: han dog lol_329
+  - first:
+      213: 5329735119498755028
+    second: han dog lol_330
+  - first:
+      213: -1271396479255096274
+    second: han dog lol_331
+  - first:
+      213: -2677290412072048656
+    second: han dog lol_332
+  - first:
+      213: -5586988702175073033
+    second: han dog lol_333
+  - first:
+      213: 4530988792360593062
+    second: han dog lol_334
+  - first:
+      213: -1280511691673449004
+    second: han dog lol_335
+  - first:
+      213: -3015358695426033719
+    second: han dog lol_336
+  - first:
+      213: 3782214263952286544
+    second: han dog lol_337
+  - first:
+      213: -5564559856742678606
+    second: han dog lol_338
+  - first:
+      213: 1643433120062730442
+    second: han dog lol_339
+  - first:
+      213: -7679518544022234131
+    second: han dog lol_340
+  - first:
+      213: -8721605359338898469
+    second: han dog lol_341
+  - first:
+      213: -2620442622479245273
+    second: han dog lol_342
+  - first:
+      213: 4939071844637054545
+    second: han dog lol_343
+  - first:
+      213: -4986342545258526561
+    second: han dog lol_344
+  - first:
+      213: -4638954427489688415
+    second: han dog lol_345
+  - first:
+      213: 2916690526453259463
+    second: han dog lol_346
+  - first:
+      213: -861510428274291263
+    second: han dog lol_347
+  - first:
+      213: 5274393333579968831
+    second: han dog lol_348
+  - first:
+      213: -4759145954660069394
+    second: han dog lol_349
+  - first:
+      213: 2457416786044573111
+    second: han dog lol_350
+  - first:
+      213: -3392309188636309515
+    second: han dog lol_351
+  - first:
+      213: -1467634446483143203
+    second: han dog lol_352
+  - first:
+      213: 2143167406840170859
+    second: han dog lol_353
+  - first:
+      213: -9052871699674548315
+    second: han dog lol_354
+  - first:
+      213: -5408348125021003731
+    second: han dog lol_355
+  - first:
+      213: 7116540008541672540
+    second: han dog lol_356
+  - first:
+      213: -7674684984115637519
+    second: han dog lol_357
+  - first:
+      213: -1106422480382544139
+    second: han dog lol_358
+  - first:
+      213: -6630228111114273656
+    second: han dog lol_359
+  - first:
+      213: -7006070026449048926
+    second: han dog lol_360
+  - first:
+      213: 2716944210258438489
+    second: han dog lol_361
+  - first:
+      213: 3024228777431143799
+    second: han dog lol_362
+  - first:
+      213: 6203310361270292143
+    second: han dog lol_363
+  - first:
+      213: -8875548693713973793
+    second: han dog lol_364
+  - first:
+      213: 7451863259151128053
+    second: han dog lol_365
+  - first:
+      213: -2974455874532484487
+    second: han dog lol_366
+  - first:
+      213: -5942602723224416289
+    second: han dog lol_367
+  - first:
+      213: 1815523357453457938
+    second: han dog lol_368
+  - first:
+      213: 5014919329275740015
+    second: han dog lol_369
+  - first:
+      213: 2402109448844436824
+    second: han dog lol_370
+  - first:
+      213: -723883665580276326
+    second: han dog lol_371
+  - first:
+      213: -62410259319647405
+    second: han dog lol_372
+  - first:
+      213: 1918889074215680213
+    second: han dog lol_373
+  - first:
+      213: 3347442112964885379
+    second: han dog lol_374
+  - first:
+      213: 9198736272612150185
+    second: han dog lol_375
+  - first:
+      213: 7987061122858971509
+    second: han dog lol_376
+  - first:
+      213: -6213013982069738005
+    second: han dog lol_377
+  - first:
+      213: 495483921721230209
+    second: han dog lol_378
+  - first:
+      213: 882826837183005671
+    second: han dog lol_379
+  - first:
+      213: 708702079519691191
+    second: han dog lol_380
+  - first:
+      213: -5290646461138348853
+    second: han dog lol_381
+  - first:
+      213: -7404690756303918569
+    second: han dog lol_382
+  - first:
+      213: 2234787716879477152
+    second: han dog lol_383
+  - first:
+      213: 1095611314254575571
+    second: han dog lol_384
+  - first:
+      213: -2465303700025322708
+    second: han dog lol_385
+  - first:
+      213: -239641271277881731
+    second: han dog lol_386
+  - first:
+      213: -146245602255948949
+    second: han dog lol_387
+  - first:
+      213: 3871453684492628231
+    second: han dog lol_388
+  - first:
+      213: 3011513954005466921
+    second: han dog lol_389
+  - first:
+      213: 5056920442587127172
+    second: han dog lol_390
+  - first:
+      213: 5334720903596609698
+    second: han dog lol_391
+  - first:
+      213: 2994078767874265265
+    second: han dog lol_392
+  - first:
+      213: 1584289699468394467
+    second: han dog lol_393
+  - first:
+      213: -2336920525355466531
+    second: han dog lol_394
+  - first:
+      213: 7840989976777446748
+    second: han dog lol_395
+  - first:
+      213: -7033421005472059305
+    second: han dog lol_396
+  - first:
+      213: -1974893286349942109
+    second: han dog lol_397
+  - first:
+      213: 6687159607899906302
+    second: han dog lol_398
+  - first:
+      213: -2370215796068242093
+    second: han dog lol_399
+  - first:
+      213: -3112577806460494323
+    second: han dog lol_400
+  - first:
+      213: -8481730492518908219
+    second: han dog lol_401
+  - first:
+      213: 8295702554060060407
+    second: han dog lol_402
+  - first:
+      213: -7362951165638891753
+    second: han dog lol_403
+  - first:
+      213: 6648606936185437319
+    second: han dog lol_404
+  - first:
+      213: 7698635888107214482
+    second: han dog lol_405
+  - first:
+      213: -7982074310449043713
+    second: han dog lol_406
+  - first:
+      213: 4230256641449339312
+    second: han dog lol_407
+  - first:
+      213: -7093315164054194690
+    second: han dog lol_408
+  - first:
+      213: 8371367352091715405
+    second: han dog lol_409
+  - first:
+      213: 1419047109498461633
+    second: han dog lol_410
+  - first:
+      213: -3219301686228520358
+    second: han dog lol_411
+  - first:
+      213: 1754048451938204804
+    second: han dog lol_412
+  - first:
+      213: -7972621206702470453
+    second: han dog lol_413
+  - first:
+      213: 3190335753320164479
+    second: han dog lol_414
+  - first:
+      213: -3612831865279436714
+    second: han dog lol_415
+  - first:
+      213: 2131762864522938140
+    second: han dog lol_416
+  - first:
+      213: -8925164744350458897
+    second: han dog lol_417
+  - first:
+      213: 2834821797991180638
+    second: han dog lol_418
+  - first:
+      213: -6294120840150461113
+    second: han dog lol_419
+  - first:
+      213: 8835484639298201178
+    second: han dog lol_420
+  - first:
+      213: 8501274143701702994
+    second: han dog lol_421
+  - first:
+      213: -4797806468361099584
+    second: han dog lol_422
+  - first:
+      213: 5964704723702542257
+    second: han dog lol_423
+  - first:
+      213: 5647121865014301816
+    second: han dog lol_424
+  - first:
+      213: -1583809217583236988
+    second: han dog lol_425
+  - first:
+      213: -8917140917808936240
+    second: han dog lol_426
+  - first:
+      213: -2761149104751767556
+    second: han dog lol_427
+  - first:
+      213: -2912039820527207711
+    second: han dog lol_428
+  - first:
+      213: -9133284548167160084
+    second: han dog lol_429
+  - first:
+      213: -3212257465411014701
+    second: han dog lol_430
+  - first:
+      213: 2303839620958252518
+    second: han dog lol_431
+  - first:
+      213: 2683081710138093772
+    second: han dog lol_432
+  - first:
+      213: 4396272865450554499
+    second: han dog lol_433
+  - first:
+      213: -6098582544046919934
+    second: han dog lol_434
+  - first:
+      213: 8966730818440893870
+    second: han dog lol_435
+  - first:
+      213: 6814596340673112327
+    second: han dog lol_436
+  - first:
+      213: 4013772122581258601
+    second: han dog lol_437
+  - first:
+      213: -266578443461206664
+    second: han dog lol_438
+  - first:
+      213: 4591745872241685825
+    second: han dog lol_439
+  - first:
+      213: 1308559773109224577
+    second: han dog lol_440
+  - first:
+      213: 1407016497179100368
+    second: han dog lol_441
+  - first:
+      213: 3852777325060698007
+    second: han dog lol_442
+  - first:
+      213: 3272552314185215876
+    second: han dog lol_443
+  - first:
+      213: -3923533725139769532
+    second: han dog lol_444
+  - first:
+      213: -6280381120887282862
+    second: han dog lol_445
+  - first:
+      213: 8553160228152208998
+    second: han dog lol_446
+  - first:
+      213: 3418562596980534448
+    second: han dog lol_447
+  - first:
+      213: 808636400748171947
+    second: han dog lol_448
+  - first:
+      213: 3459787915933255936
+    second: han dog lol_449
+  - first:
+      213: 1197861680661940353
+    second: han dog lol_450
+  - first:
+      213: -4490573989540542581
+    second: han dog lol_451
+  - first:
+      213: 8877437429882382973
+    second: han dog lol_452
+  - first:
+      213: -5554397426226776193
+    second: han dog lol_453
+  - first:
+      213: -5956887638534259965
+    second: han dog lol_454
+  - first:
+      213: 1395972545321743007
+    second: han dog lol_455
+  - first:
+      213: 8157864632624592007
+    second: han dog lol_456
+  - first:
+      213: 65496134735645483
+    second: han dog lol_457
+  - first:
+      213: -8049385623817685291
+    second: han dog lol_458
+  - first:
+      213: -1692455368379819372
+    second: han dog lol_459
+  - first:
+      213: 7619497611036513612
+    second: han dog lol_460
+  - first:
+      213: -5565209351430796575
+    second: han dog lol_461
+  - first:
+      213: -4628756868235841307
+    second: han dog lol_462
+  - first:
+      213: 1474649788871184658
+    second: han dog lol_463
+  - first:
+      213: -409376811225508446
+    second: han dog lol_464
+  - first:
+      213: -1389945254498846179
+    second: han dog lol_465
+  - first:
+      213: 7496778852075760393
+    second: han dog lol_466
+  - first:
+      213: 8057632239881157926
+    second: han dog lol_467
+  - first:
+      213: -649868132797670202
+    second: han dog lol_468
+  - first:
+      213: 8095273536583943612
+    second: han dog lol_469
+  - first:
+      213: 7351440589184790574
+    second: han dog lol_470
+  - first:
+      213: -648616844024054060
+    second: han dog lol_471
+  - first:
+      213: -7113374981773307442
+    second: han dog lol_472
+  - first:
+      213: 1119030771445098892
+    second: han dog lol_473
+  - first:
+      213: -9089863726687717939
+    second: han dog lol_474
+  - first:
+      213: -745089306968748031
+    second: han dog lol_475
+  - first:
+      213: 7497702974509107799
+    second: han dog lol_476
+  - first:
+      213: 70841233502031631
+    second: han dog lol_477
+  - first:
+      213: 1552159395953086620
+    second: han dog lol_478
+  - first:
+      213: -282601561986689445
+    second: han dog lol_479
+  - first:
+      213: 6480951200067038301
+    second: han dog lol_480
+  - first:
+      213: -5177534316549351556
+    second: han dog lol_481
+  - first:
+      213: 5113679988572197546
+    second: han dog lol_482
+  - first:
+      213: -831477672917676840
+    second: han dog lol_483
+  - first:
+      213: 1730638957098584419
+    second: han dog lol_484
+  - first:
+      213: -2568340434123354528
+    second: han dog lol_485
+  - first:
+      213: -7727130324485394517
+    second: han dog lol_486
+  - first:
+      213: 3504392396350686960
+    second: han dog lol_487
+  - first:
+      213: 7424220069615738517
+    second: han dog lol_488
+  - first:
+      213: 6409260161738893270
+    second: han dog lol_489
+  - first:
+      213: -2919292110543718960
+    second: han dog lol_490
+  - first:
+      213: -5440972845805554557
+    second: han dog lol_491
+  - first:
+      213: 512288119884213771
+    second: han dog lol_492
+  - first:
+      213: -814397180363288444
+    second: han dog lol_493
+  - first:
+      213: -1789815810510627917
+    second: han dog lol_494
+  - first:
+      213: 5075597754913211867
+    second: han dog lol_495
+  - first:
+      213: 6152325304916011145
+    second: han dog lol_496
+  - first:
+      213: -6221041635065679714
+    second: han dog lol_497
+  - first:
+      213: 2889799402588418572
+    second: han dog lol_498
+  - first:
+      213: 4046061650830883263
+    second: han dog lol_499
+  - first:
+      213: -1203936805787571589
+    second: han dog lol_500
+  - first:
+      213: 1938249555121262714
+    second: han dog lol_501
+  - first:
+      213: -5698482658642286644
+    second: han dog lol_502
+  - first:
+      213: 2964455230801603634
+    second: han dog lol_503
+  - first:
+      213: 4762485965123515098
+    second: han dog lol_504
+  - first:
+      213: 7660091557096618451
+    second: han dog lol_505
+  - first:
+      213: -8237981685236229810
+    second: han dog lol_506
+  - first:
+      213: -8604053274706611702
+    second: han dog lol_507
+  - first:
+      213: -1158148162000882810
+    second: han dog lol_508
+  - first:
+      213: 6141779140702584911
+    second: han dog lol_509
+  - first:
+      213: 5890418581432005668
+    second: han dog lol_510
+  - first:
+      213: 4224704132596364379
+    second: han dog lol_511
+  - first:
+      213: -7764208026102700057
+    second: han dog lol_512
+  - first:
+      213: 5818428227437541424
+    second: han dog lol_513
+  - first:
+      213: -5885135640684483667
+    second: han dog lol_514
+  - first:
+      213: 7970013820139909311
+    second: han dog lol_515
+  - first:
+      213: -2358779083743422044
+    second: han dog lol_516
+  - first:
+      213: -6421398553031185064
+    second: han dog lol_517
+  - first:
+      213: 1920011935589296001
+    second: han dog lol_518
+  - first:
+      213: 4469117294344432586
+    second: han dog lol_519
+  - first:
+      213: -6074787836534567831
+    second: han dog lol_520
+  - first:
+      213: 1129707346530192513
+    second: han dog lol_521
+  - first:
+      213: -4092085783438175669
+    second: han dog lol_522
+  - first:
+      213: -6635837936904653131
+    second: han dog lol_523
+  - first:
+      213: -1512512298262136848
+    second: han dog lol_524
+  - first:
+      213: -2620183485701033864
+    second: han dog lol_525
+  - first:
+      213: -6882908527736184113
+    second: han dog lol_526
+  - first:
+      213: 7835063235843841064
+    second: han dog lol_527
+  - first:
+      213: -7235838626792852973
+    second: han dog lol_528
+  - first:
+      213: -2391308144782865751
+    second: han dog lol_529
+  - first:
+      213: 247458662918148085
+    second: han dog lol_530
+  - first:
+      213: -139647726847985301
+    second: han dog lol_531
+  - first:
+      213: -8310057770221148246
+    second: han dog lol_532
+  - first:
+      213: -5685325622410053672
+    second: han dog lol_533
+  - first:
+      213: 8487425833504498456
+    second: han dog lol_534
+  - first:
+      213: 2773331946150820625
+    second: han dog lol_535
+  - first:
+      213: -2607658590709426996
+    second: han dog lol_536
+  - first:
+      213: 3180207648470410502
+    second: han dog lol_537
+  - first:
+      213: -8036289807055424975
+    second: han dog lol_538
+  - first:
+      213: 5748825715273275858
+    second: han dog lol_539
+  - first:
+      213: -5338873926305419905
+    second: han dog lol_540
+  - first:
+      213: 8931874268087595983
+    second: han dog lol_541
+  - first:
+      213: -8722041166579572607
+    second: han dog lol_542
+  - first:
+      213: -7088243506988406955
+    second: han dog lol_543
+  - first:
+      213: -2267585476592822593
+    second: han dog lol_544
+  - first:
+      213: 8316060057994315192
+    second: han dog lol_545
+  - first:
+      213: 3572848735758269472
+    second: han dog lol_546
+  - first:
+      213: -7172115298626010430
+    second: han dog lol_547
+  - first:
+      213: -7944595320494730688
+    second: han dog lol_548
+  - first:
+      213: -2496101017998049397
+    second: han dog lol_549
+  - first:
+      213: -1836895080487963657
+    second: han dog lol_550
+  - first:
+      213: -3256214729899096931
+    second: han dog lol_551
+  - first:
+      213: 6416707792550521123
+    second: han dog lol_552
+  - first:
+      213: -7543253239055329647
+    second: han dog lol_553
+  - first:
+      213: 6417475059742972165
+    second: han dog lol_554
+  - first:
+      213: -5584190750703710661
+    second: han dog lol_555
+  - first:
+      213: 8641703126926262460
+    second: han dog lol_556
+  - first:
+      213: 4857177709930404290
+    second: han dog lol_557
+  - first:
+      213: 2950279993097577086
+    second: han dog lol_558
+  - first:
+      213: -5252494034825556633
+    second: han dog lol_559
+  - first:
+      213: -7393590225725049848
+    second: han dog lol_560
+  - first:
+      213: 679446721951865667
+    second: han dog lol_561
+  - first:
+      213: -952535330476835527
+    second: han dog lol_562
+  - first:
+      213: -4506788925217667296
+    second: han dog lol_563
+  - first:
+      213: -4033503712425683712
+    second: han dog lol_564
+  - first:
+      213: -2135729399963419212
+    second: han dog lol_565
+  - first:
+      213: 7379672838431596012
+    second: han dog lol_566
+  - first:
+      213: 9184287145860094949
+    second: han dog lol_567
+  - first:
+      213: 746930783886392699
+    second: han dog lol_568
+  - first:
+      213: 5949147350215974664
+    second: han dog lol_569
+  - first:
+      213: 7910091114866987327
+    second: han dog lol_570
+  - first:
+      213: 8415035965921247622
+    second: han dog lol_571
+  - first:
+      213: -2884186987343119020
+    second: han dog lol_572
+  - first:
+      213: 2786805266617166309
+    second: han dog lol_573
+  - first:
+      213: 6344252402406720989
+    second: han dog lol_574
+  - first:
+      213: 2853111506043789021
+    second: han dog lol_575
+  - first:
+      213: -3085467531865643682
+    second: han dog lol_576
+  - first:
+      213: -3657295530622493875
+    second: han dog lol_577
+  - first:
+      213: 800086814885388656
+    second: han dog lol_578
+  - first:
+      213: 6497559457008817868
+    second: han dog lol_579
+  - first:
+      213: 6947044391904449918
+    second: han dog lol_580
+  - first:
+      213: 8980424123169095396
+    second: han dog lol_581
+  - first:
+      213: -3165727564930703321
+    second: han dog lol_582
+  - first:
+      213: -2822556054518931099
+    second: han dog lol_583
+  - first:
+      213: 8122360586846163568
+    second: han dog lol_584
+  - first:
+      213: -7764874714221811536
+    second: han dog lol_585
+  - first:
+      213: -1704459448345146068
+    second: han dog lol_586
+  - first:
+      213: 3474070104043843839
+    second: han dog lol_587
+  - first:
+      213: 3230422933014932513
+    second: han dog lol_588
+  - first:
+      213: 640431708663650234
+    second: han dog lol_589
+  - first:
+      213: 2734662909466416798
+    second: han dog lol_590
+  - first:
+      213: -2876725136535986846
+    second: han dog lol_591
+  - first:
+      213: 1661021654113398007
+    second: han dog lol_592
+  - first:
+      213: 4854314568086219375
+    second: han dog lol_593
+  - first:
+      213: -5557221544956605486
+    second: han dog lol_594
+  - first:
+      213: -8474499505313326435
+    second: han dog lol_595
+  - first:
+      213: 6626101796119308957
+    second: han dog lol_596
+  - first:
+      213: -28942081927734219
+    second: han dog lol_597
+  - first:
+      213: 5478165120735684127
+    second: han dog lol_598
+  - first:
+      213: 7833707904703012290
+    second: han dog lol_599
+  - first:
+      213: -4904715276506242232
+    second: han dog lol_600
+  - first:
+      213: -8946203170681217306
+    second: han dog lol_601
+  - first:
+      213: 1209561774244589691
+    second: han dog lol_602
+  - first:
+      213: -1027121956337972186
+    second: han dog lol_603
+  - first:
+      213: 3965560341196945193
+    second: han dog lol_604
+  - first:
+      213: 2799732814204726063
+    second: han dog lol_605
+  - first:
+      213: 7805679832813447963
+    second: han dog lol_606
+  - first:
+      213: 8945811191635186133
+    second: han dog lol_607
+  - first:
+      213: -6898442292324920158
+    second: han dog lol_608
+  - first:
+      213: -714086696478521504
+    second: han dog lol_609
+  - first:
+      213: 1507367803847841185
+    second: han dog lol_610
+  - first:
+      213: 2073409284654765816
+    second: han dog lol_611
+  - first:
+      213: -2629174898073457021
+    second: han dog lol_612
+  - first:
+      213: 5914202418190151986
+    second: han dog lol_613
+  - first:
+      213: 8134740626374663305
+    second: han dog lol_614
+  - first:
+      213: 3625693867605967086
+    second: han dog lol_615
+  - first:
+      213: -9054772128249961847
+    second: han dog lol_616
+  - first:
+      213: -9074782684768937796
+    second: han dog lol_617
+  - first:
+      213: -5315518659914498632
+    second: han dog lol_618
+  - first:
+      213: 6045330634702036
+    second: han dog lol_619
+  - first:
+      213: -1218931723345752510
+    second: han dog lol_620
+  - first:
+      213: -7363064196771091914
+    second: han dog lol_621
+  - first:
+      213: 750207389063420479
+    second: han dog lol_622
+  - first:
+      213: -1911151256989517604
+    second: han dog lol_623
+  - first:
+      213: -6083578704938525865
+    second: han dog lol_624
+  - first:
+      213: -8733030985238636191
+    second: han dog lol_625
+  - first:
+      213: -1023859252674394818
+    second: han dog lol_626
+  - first:
+      213: -719224599349257426
+    second: han dog lol_627
+  - first:
+      213: 6858019320277324906
+    second: han dog lol_628
+  - first:
+      213: 6011221703826019529
+    second: han dog lol_629
+  - first:
+      213: -8249192520846836921
+    second: han dog lol_630
+  - first:
+      213: -7216102444921506784
+    second: han dog lol_631
+  - first:
+      213: 6584416616027742430
+    second: han dog lol_632
+  - first:
+      213: -8588913404587497759
+    second: han dog lol_633
+  - first:
+      213: 8351906676302976353
+    second: han dog lol_634
+  - first:
+      213: -7138806990565324562
+    second: han dog lol_635
+  - first:
+      213: 1543804181369547468
+    second: han dog lol_636
+  - first:
+      213: -3265872632441012048
+    second: han dog lol_637
+  - first:
+      213: 6232033505006384417
+    second: han dog lol_638
+  - first:
+      213: -5328142378002273148
+    second: han dog lol_639
+  - first:
+      213: 74848099368395387
+    second: han dog lol_640
+  - first:
+      213: 8231009072871758853
+    second: han dog lol_641
+  - first:
+      213: -7029738350201769351
+    second: han dog lol_642
+  - first:
+      213: 249522576956621391
+    second: han dog lol_643
+  - first:
+      213: -118273969471499526
+    second: han dog lol_644
+  - first:
+      213: -8449544451426530775
+    second: han dog lol_645
+  - first:
+      213: 2979354382960447074
+    second: han dog lol_646
+  - first:
+      213: -5354949191242021003
+    second: han dog lol_647
+  - first:
+      213: 7975636592982929752
+    second: han dog lol_648
+  - first:
+      213: -8582172283351969903
+    second: han dog lol_649
+  - first:
+      213: 2990217083046542701
+    second: han dog lol_650
+  - first:
+      213: 7148043303648421519
+    second: han dog lol_651
+  - first:
+      213: 342758875017884435
+    second: han dog lol_652
+  - first:
+      213: 2211593138811429754
+    second: han dog lol_653
+  - first:
+      213: -3875164450382778996
+    second: han dog lol_654
+  - first:
+      213: -5834453844320321234
+    second: han dog lol_655
+  - first:
+      213: 6489468966879759441
+    second: han dog lol_656
+  - first:
+      213: 3339715433766510615
+    second: han dog lol_657
+  - first:
+      213: 7047558617167505613
+    second: han dog lol_658
+  - first:
+      213: 3804319263225228249
+    second: han dog lol_659
+  - first:
+      213: -2951968188033128632
+    second: han dog lol_660
+  - first:
+      213: 3226010800554845019
+    second: han dog lol_661
+  - first:
+      213: 7272134912963242517
+    second: han dog lol_662
+  - first:
+      213: 1642177787192836603
+    second: han dog lol_663
+  - first:
+      213: 3391767495098698030
+    second: han dog lol_664
+  - first:
+      213: -3983052425212970787
+    second: han dog lol_665
+  - first:
+      213: 911972160127899283
+    second: han dog lol_666
+  - first:
+      213: 2737047928334206069
+    second: han dog lol_667
+  - first:
+      213: 4586834462193149959
+    second: han dog lol_668
+  - first:
+      213: -5735129187490505545
+    second: han dog lol_669
+  - first:
+      213: 1870409896754479538
+    second: han dog lol_670
+  - first:
+      213: -5423155547226038039
+    second: han dog lol_671
+  - first:
+      213: 8761535090473136889
+    second: han dog lol_672
+  - first:
+      213: -1848756200286871037
+    second: han dog lol_673
+  - first:
+      213: -2232465017623272422
+    second: han dog lol_674
+  - first:
+      213: -337739555803980378
+    second: han dog lol_675
+  - first:
+      213: -2816583536672192996
+    second: han dog lol_676
+  - first:
+      213: 2420125904457402018
+    second: han dog lol_677
+  - first:
+      213: 1807889593511118380
+    second: han dog lol_678
+  - first:
+      213: 8740450297762583463
+    second: han dog lol_679
+  - first:
+      213: -946893350504777786
+    second: han dog lol_680
+  - first:
+      213: -8812429805635585436
+    second: han dog lol_681
+  - first:
+      213: -1661922354011365468
+    second: han dog lol_682
+  - first:
+      213: -2074305714707725315
+    second: han dog lol_683
+  - first:
+      213: 7165136043707732240
+    second: han dog lol_684
+  - first:
+      213: 4409778681616343649
+    second: han dog lol_685
+  - first:
+      213: -8671280812133412046
+    second: han dog lol_686
+  - first:
+      213: -285049184501019511
+    second: han dog lol_687
+  - first:
+      213: 3387565514978871611
+    second: han dog lol_688
+  - first:
+      213: 2854911443387139408
+    second: han dog lol_689
+  - first:
+      213: 8472754438289359059
+    second: han dog lol_690
+  - first:
+      213: -5225185770973779915
+    second: han dog lol_691
+  - first:
+      213: 5375697167619374775
+    second: han dog lol_692
+  - first:
+      213: 8253425257479555121
+    second: han dog lol_693
+  - first:
+      213: 99709316802138044
+    second: han dog lol_694
+  - first:
+      213: 188131800218527377
+    second: han dog lol_695
+  - first:
+      213: 2371480471404070627
+    second: han dog lol_696
+  - first:
+      213: 3141981343746053042
+    second: han dog lol_697
+  - first:
+      213: -6784633382777290893
+    second: han dog lol_698
+  - first:
+      213: 1757040282389507447
+    second: han dog lol_699
+  - first:
+      213: 4431747593438471522
+    second: han dog lol_700
+  - first:
+      213: 1692801205267547076
+    second: han dog lol_701
+  - first:
+      213: -4643359273600750890
+    second: han dog lol_702
+  - first:
+      213: -5989870685895905587
+    second: han dog lol_703
+  - first:
+      213: -8145599656480240114
+    second: han dog lol_704
+  - first:
+      213: -2777251825685897671
+    second: han dog lol_705
+  - first:
+      213: 499124841579986565
+    second: han dog lol_706
+  - first:
+      213: 3837902306112673838
+    second: han dog lol_707
+  - first:
+      213: -2225569979527459054
+    second: han dog lol_708
+  - first:
+      213: 472061075769915699
+    second: han dog lol_709
+  - first:
+      213: 7434407813387466777
+    second: han dog lol_710
+  - first:
+      213: 466403592187636644
+    second: han dog lol_711
+  - first:
+      213: 580749939879093924
+    second: han dog lol_712
+  - first:
+      213: -4478504097697504308
+    second: han dog lol_713
+  - first:
+      213: 3439400934494787738
+    second: han dog lol_714
+  - first:
+      213: 708982919684123063
+    second: han dog lol_715
+  - first:
+      213: 5908888177560613743
+    second: han dog lol_716
+  - first:
+      213: 6713754015235680394
+    second: han dog lol_717
+  - first:
+      213: 8362271707180041319
+    second: han dog lol_718
+  - first:
+      213: 7671562007421847782
+    second: han dog lol_719
+  - first:
+      213: 5723925552006437969
+    second: han dog lol_720
+  - first:
+      213: -4264223141423825703
+    second: han dog lol_721
+  - first:
+      213: -1464799510070287737
+    second: han dog lol_722
+  - first:
+      213: 442160881879523732
+    second: han dog lol_723
+  - first:
+      213: 879020022268830503
+    second: han dog lol_724
+  - first:
+      213: -4021887281133166182
+    second: han dog lol_725
+  - first:
+      213: 3945301264241732326
+    second: han dog lol_726
+  - first:
+      213: -8525642435569430813
+    second: han dog lol_727
+  - first:
+      213: -4199157506002577217
+    second: han dog lol_728
+  - first:
+      213: 3643436340176450210
+    second: han dog lol_729
+  - first:
+      213: 981411139174402983
+    second: han dog lol_730
+  - first:
+      213: 5793331686819362349
+    second: han dog lol_731
+  - first:
+      213: 3393087114278415677
+    second: han dog lol_732
+  - first:
+      213: 8196478748071469651
+    second: han dog lol_733
+  - first:
+      213: -2129934965206926604
+    second: han dog lol_734
+  - first:
+      213: 8574265534313590572
+    second: han dog lol_735
+  - first:
+      213: -1091857304108874164
+    second: han dog lol_736
+  - first:
+      213: 5225388075294131940
+    second: han dog lol_737
+  - first:
+      213: 6004134897498459358
+    second: han dog lol_738
+  - first:
+      213: 4011604088436046622
+    second: han dog lol_739
+  - first:
+      213: 4977238744073715484
+    second: han dog lol_740
+  - first:
+      213: 8840962314498898981
+    second: han dog lol_741
+  - first:
+      213: 2513366184525388517
+    second: han dog lol_742
+  - first:
+      213: -1754894553177828739
+    second: han dog lol_743
+  - first:
+      213: -5601512191701263912
+    second: han dog lol_744
+  - first:
+      213: 7445125542566253479
+    second: han dog lol_745
+  - first:
+      213: 2961938724580597733
+    second: han dog lol_746
+  - first:
+      213: -7919593222359580039
+    second: han dog lol_747
+  - first:
+      213: -6503179244307644606
+    second: han dog lol_748
+  - first:
+      213: -6090272790114500104
+    second: han dog lol_749
+  - first:
+      213: 990797587445658691
+    second: han dog lol_750
+  - first:
+      213: -3805419050971729712
+    second: han dog lol_751
+  - first:
+      213: 5453860043511339066
+    second: han dog lol_752
+  - first:
+      213: -1780857113321383185
+    second: han dog lol_753
+  - first:
+      213: -4190645736263042869
+    second: han dog lol_754
+  - first:
+      213: 3137829304875916248
+    second: han dog lol_755
+  - first:
+      213: 9173532865329153285
+    second: han dog lol_756
+  - first:
+      213: -6143044212186212237
+    second: han dog lol_757
+  - first:
+      213: 7636619000880521225
+    second: han dog lol_758
+  - first:
+      213: -4624418849721525582
+    second: han dog lol_759
+  - first:
+      213: -7131127135798722620
+    second: han dog lol_760
+  - first:
+      213: -5580670461090074638
+    second: han dog lol_761
+  - first:
+      213: -8652461460741293806
+    second: han dog lol_762
+  - first:
+      213: 629626365102714086
+    second: han dog lol_763
+  - first:
+      213: -3862654779250010924
+    second: han dog lol_764
+  - first:
+      213: 6711248426085868794
+    second: han dog lol_765
+  - first:
+      213: 5607742792300224762
+    second: han dog lol_766
+  - first:
+      213: -7412165696728319372
+    second: han dog lol_767
+  - first:
+      213: -6883301344064338733
+    second: han dog lol_768
+  - first:
+      213: 7927097981291831788
+    second: han dog lol_769
+  - first:
+      213: -6780901199499225225
+    second: han dog lol_770
+  - first:
+      213: -980404219162670963
+    second: han dog lol_771
+  - first:
+      213: 2526199559827195202
+    second: han dog lol_772
+  - first:
+      213: 148683905385568979
+    second: han dog lol_773
+  - first:
+      213: -8063117519133912304
+    second: han dog lol_774
+  - first:
+      213: -5587539709890748121
+    second: han dog lol_775
+  - first:
+      213: 6345075370753912269
+    second: han dog lol_776
+  - first:
+      213: 2702663486457781663
+    second: han dog lol_777
+  - first:
+      213: 3334746736323544816
+    second: han dog lol_778
+  - first:
+      213: -5112195974679935391
+    second: han dog lol_779
+  - first:
+      213: 2289483881968844816
+    second: han dog lol_780
+  - first:
+      213: -3319989910003684097
+    second: han dog lol_781
+  - first:
+      213: -1700220184498234025
+    second: han dog lol_782
+  - first:
+      213: -6061472839975161969
+    second: han dog lol_783
+  - first:
+      213: 6916683727095371137
+    second: han dog lol_784
+  - first:
+      213: 5822883106467130051
+    second: han dog lol_785
+  - first:
+      213: -7508353186468869370
+    second: han dog lol_786
+  - first:
+      213: 4884570475458339938
+    second: han dog lol_787
+  - first:
+      213: 4122943203838756731
+    second: han dog lol_788
+  - first:
+      213: 5692538906371693476
+    second: han dog lol_789
+  - first:
+      213: 1723430708399450795
+    second: han dog lol_790
+  - first:
+      213: 5650505056561350222
+    second: han dog lol_791
+  - first:
+      213: 8288904682321168645
+    second: han dog lol_792
+  - first:
+      213: -9095468339248689423
+    second: han dog lol_793
+  - first:
+      213: 3172695898278340436
+    second: han dog lol_794
+  - first:
+      213: -6244485331552676469
+    second: han dog lol_795
+  - first:
+      213: 2460109841405608592
+    second: han dog lol_796
+  - first:
+      213: -8713794567997075541
+    second: han dog lol_797
+  - first:
+      213: 1616596955006480741
+    second: han dog lol_798
+  - first:
+      213: -4403509483693542176
+    second: han dog lol_799
+  - first:
+      213: -3334931850634068870
+    second: han dog lol_800
+  - first:
+      213: 5614112521140524997
+    second: han dog lol_801
+  - first:
+      213: -2981149098357035815
+    second: han dog lol_802
+  - first:
+      213: -8454961611865815374
+    second: han dog lol_803
+  - first:
+      213: 3139829967171453996
+    second: han dog lol_804
+  - first:
+      213: -1585484404087041113
+    second: han dog lol_805
+  - first:
+      213: 2844403006124023780
+    second: han dog lol_806
+  - first:
+      213: 2382012806849541626
+    second: han dog lol_807
+  - first:
+      213: -3870154747672180581
+    second: han dog lol_808
+  - first:
+      213: 92000963585213608
+    second: han dog lol_809
+  - first:
+      213: 5722583128447174712
+    second: han dog lol_810
+  - first:
+      213: 9102858116895621892
+    second: han dog lol_811
+  - first:
+      213: -3242570709997175157
+    second: han dog lol_812
+  - first:
+      213: -3810314184991504338
+    second: han dog lol_813
+  - first:
+      213: 1991635018138474694
+    second: han dog lol_814
+  - first:
+      213: 6954792072403585076
+    second: han dog lol_815
+  - first:
+      213: -8222755450650269099
+    second: han dog lol_816
+  - first:
+      213: 2296483197672657662
+    second: han dog lol_817
+  - first:
+      213: 5997751383635788312
+    second: han dog lol_818
+  - first:
+      213: 5749077026494748642
+    second: han dog lol_819
+  - first:
+      213: -7217951818767414498
+    second: han dog lol_820
+  - first:
+      213: 279451265241588767
+    second: han dog lol_821
+  - first:
+      213: 5857916375201146427
+    second: han dog lol_822
+  - first:
+      213: -2749125132962374878
+    second: han dog lol_823
+  - first:
+      213: 9142335446170060819
+    second: han dog lol_824
+  - first:
+      213: -4971063700058954122
+    second: han dog lol_825
+  - first:
+      213: 7700983553303708240
+    second: han dog lol_826
+  - first:
+      213: 8759160224958309139
+    second: han dog lol_827
+  - first:
+      213: -4197712745031298593
+    second: han dog lol_828
+  - first:
+      213: 5385727447873172892
+    second: han dog lol_829
+  - first:
+      213: -9175424015780662977
+    second: han dog lol_830
+  - first:
+      213: -3439458843470258014
+    second: han dog lol_831
+  - first:
+      213: -4912777678210289139
+    second: han dog lol_832
+  - first:
+      213: -5472398670808424148
+    second: han dog lol_833
+  - first:
+      213: -6117709465852411413
+    second: han dog lol_834
+  - first:
+      213: -1301724559672310158
+    second: han dog lol_835
+  - first:
+      213: -5145527699169177350
+    second: han dog lol_836
+  - first:
+      213: -7482522278367602033
+    second: han dog lol_837
+  - first:
+      213: 1810946069133178056
+    second: han dog lol_838
+  - first:
+      213: 4570637551187781903
+    second: han dog lol_839
+  - first:
+      213: -2080333948371304949
+    second: han dog lol_840
+  - first:
+      213: 1944049516991645486
+    second: han dog lol_841
+  - first:
+      213: -2585361333536050498
+    second: han dog lol_842
+  - first:
+      213: -6221908990553837946
+    second: han dog lol_843
+  - first:
+      213: 8569148231029622047
+    second: han dog lol_844
+  - first:
+      213: -1851092827986560012
+    second: han dog lol_845
+  - first:
+      213: 8786758781922503266
+    second: han dog lol_846
+  - first:
+      213: 1374566510582726297
+    second: han dog lol_847
+  - first:
+      213: -8810299938778624277
+    second: han dog lol_848
+  - first:
+      213: 7479833231282738477
+    second: han dog lol_849
+  - first:
+      213: 375911363933191586
+    second: han dog lol_850
+  - first:
+      213: 8038998271221067384
+    second: han dog lol_851
+  - first:
+      213: 4115614309922134510
+    second: han dog lol_852
+  - first:
+      213: -2931594126327901921
+    second: han dog lol_853
+  - first:
+      213: 4757674482186760061
+    second: han dog lol_854
+  - first:
+      213: -5052390450924060039
+    second: han dog lol_855
+  - first:
+      213: 8514784080376635959
+    second: han dog lol_856
+  - first:
+      213: -7353019228485277789
+    second: han dog lol_857
+  - first:
+      213: -6392662413711138074
+    second: han dog lol_858
+  - first:
+      213: -1091273345146206890
+    second: han dog lol_859
+  - first:
+      213: -3778383258551270963
+    second: han dog lol_860
+  - first:
+      213: 7788945971026657051
+    second: han dog lol_861
+  - first:
+      213: -3012139562696075826
+    second: han dog lol_862
+  - first:
+      213: -7531520126650024787
+    second: han dog lol_863
+  - first:
+      213: 7864327610318772821
+    second: han dog lol_864
+  - first:
+      213: -480143906661432637
+    second: han dog lol_865
+  - first:
+      213: 4354826143090783298
+    second: han dog lol_866
+  - first:
+      213: 1896382830351556274
+    second: han dog lol_867
+  - first:
+      213: 4327046154230166327
+    second: han dog lol_868
+  - first:
+      213: 4604416467120539637
+    second: han dog lol_869
+  - first:
+      213: -5854774494213743844
+    second: han dog lol_870
+  - first:
+      213: 7942366653222793121
+    second: han dog lol_871
+  - first:
+      213: -4707057091302761523
+    second: han dog lol_872
+  - first:
+      213: -4870148759895999418
+    second: han dog lol_873
+  - first:
+      213: -8621731583374158110
+    second: han dog lol_874
+  - first:
+      213: 1465035055949713846
+    second: han dog lol_875
+  - first:
+      213: -1342239788712894497
+    second: han dog lol_876
+  - first:
+      213: 4840792232385611927
+    second: han dog lol_877
+  - first:
+      213: -8396932165084752424
+    second: han dog lol_878
+  - first:
+      213: 9098096358961911937
+    second: han dog lol_879
+  - first:
+      213: 8894319805815940927
+    second: han dog lol_880
+  - first:
+      213: 7526090598145774367
+    second: han dog lol_881
+  - first:
+      213: -6910885492019205628
+    second: han dog lol_882
+  - first:
+      213: 1385668813612565055
+    second: han dog lol_883
+  - first:
+      213: 5429574567875453682
+    second: han dog lol_884
+  - first:
+      213: -7632163841987920177
+    second: han dog lol_885
+  - first:
+      213: -6745284767254180188
+    second: han dog lol_886
+  - first:
+      213: -3708924175225850306
+    second: han dog lol_887
+  - first:
+      213: 4217197901743646803
+    second: han dog lol_888
+  - first:
+      213: 6917386403928974966
+    second: han dog lol_889
+  - first:
+      213: 6490597580817702103
+    second: han dog lol_890
+  - first:
+      213: -1810245350309562130
+    second: han dog lol_891
+  - first:
+      213: -1625330504471397837
+    second: han dog lol_892
+  - first:
+      213: 4228418462794165571
+    second: han dog lol_893
+  - first:
+      213: 8040989205642288776
+    second: han dog lol_894
+  - first:
+      213: -1974595378409804819
+    second: han dog lol_895
+  - first:
+      213: 4659050835376313810
+    second: han dog lol_896
+  - first:
+      213: -2839046729447906915
+    second: han dog lol_897
+  - first:
+      213: -704076325538137409
+    second: han dog lol_898
+  - first:
+      213: -2940782149834875350
+    second: han dog lol_899
+  - first:
+      213: -947134803857695668
+    second: han dog lol_900
+  - first:
+      213: -4087755686693934247
+    second: han dog lol_901
+  - first:
+      213: -5133268645712907349
+    second: han dog lol_902
+  - first:
+      213: 407067839670853850
+    second: han dog lol_903
+  - first:
+      213: -3631228685646857812
+    second: han dog lol_904
+  - first:
+      213: 7151464975477510993
+    second: han dog lol_905
+  - first:
+      213: 5471303990348288957
+    second: han dog lol_906
+  - first:
+      213: 7503493205928848201
+    second: han dog lol_907
+  - first:
+      213: -3840391846027381866
+    second: han dog lol_908
+  - first:
+      213: -7117175576080534828
+    second: han dog lol_909
+  - first:
+      213: 9133401698852668895
+    second: han dog lol_910
+  - first:
+      213: -4822493342971578242
+    second: han dog lol_911
+  - first:
+      213: -5075272545369818894
+    second: han dog lol_912
+  - first:
+      213: 8596373808847942198
+    second: han dog lol_913
+  - first:
+      213: -1705540157484417296
+    second: han dog lol_914
+  - first:
+      213: -5586197163786261227
+    second: han dog lol_915
+  - first:
+      213: -1370820947229179756
+    second: han dog lol_916
+  - first:
+      213: -165821356922972788
+    second: han dog lol_917
+  - first:
+      213: 5787023206467579000
+    second: han dog lol_918
+  - first:
+      213: -2793314893648374511
+    second: han dog lol_919
+  - first:
+      213: -7344336962918193097
+    second: han dog lol_920
+  - first:
+      213: -4135291009883284085
+    second: han dog lol_921
+  - first:
+      213: -214990867602253296
+    second: han dog lol_922
+  - first:
+      213: 7049125633895147973
+    second: han dog lol_923
+  - first:
+      213: -3841772442627241952
+    second: han dog lol_924
+  - first:
+      213: -9048460096651856284
+    second: han dog lol_925
+  - first:
+      213: -9166242529862392475
+    second: han dog lol_926
+  - first:
+      213: 6089816156599764864
+    second: han dog lol_927
+  - first:
+      213: 7429857712759560966
+    second: han dog lol_928
+  - first:
+      213: -140464418183077852
+    second: han dog lol_929
+  - first:
+      213: 6602503255387054165
+    second: han dog lol_930
+  - first:
+      213: 7789635937747852543
+    second: han dog lol_931
+  - first:
+      213: 1767679965443612078
+    second: han dog lol_932
+  - first:
+      213: -1781370692796873363
+    second: han dog lol_933
+  - first:
+      213: -6439147690784116043
+    second: han dog lol_934
+  - first:
+      213: -1971451626224301562
+    second: han dog lol_935
+  - first:
+      213: 4686248022955496192
+    second: han dog lol_936
+  - first:
+      213: 3837639680293967287
+    second: han dog lol_937
+  - first:
+      213: -1625206168129035926
+    second: han dog lol_938
+  - first:
+      213: 2993256560281916090
+    second: han dog lol_939
+  - first:
+      213: 8890183350223353277
+    second: han dog lol_940
+  - first:
+      213: 8803944572931040106
+    second: han dog lol_941
+  - first:
+      213: -9218032413999914466
+    second: han dog lol_942
+  - first:
+      213: -7693258064254315893
+    second: han dog lol_943
+  - first:
+      213: -1633286543414770088
+    second: han dog lol_944
+  - first:
+      213: -7449299419770215737
+    second: han dog lol_945
+  - first:
+      213: -2156561858446594918
+    second: han dog lol_946
+  - first:
+      213: -7482573143441419504
+    second: han dog lol_947
+  - first:
+      213: 4131247894355862504
+    second: han dog lol_948
+  - first:
+      213: -1320171384935422673
+    second: han dog lol_949
+  - first:
+      213: -8481051194899174301
+    second: han dog lol_950
+  - first:
+      213: -8542090226664030271
+    second: han dog lol_951
+  - first:
+      213: 2089447301443481370
+    second: han dog lol_952
+  - first:
+      213: 5370505069428540579
+    second: han dog lol_953
+  - first:
+      213: 4394023852885331738
+    second: han dog lol_954
+  - first:
+      213: 2750220809488984039
+    second: han dog lol_955
+  - first:
+      213: 4949678239476039965
+    second: han dog lol_956
+  - first:
+      213: 1245167632278733485
+    second: han dog lol_957
+  - first:
+      213: 8058012550207078112
+    second: han dog lol_958
+  - first:
+      213: 5635545879602690079
+    second: han dog lol_959
+  - first:
+      213: -1960677314311629482
+    second: han dog lol_960
+  - first:
+      213: -7137466407616340245
+    second: han dog lol_961
+  - first:
+      213: 368734815163703922
+    second: han dog lol_962
+  - first:
+      213: 3204423984253585277
+    second: han dog lol_963
+  - first:
+      213: -350532036292194827
+    second: han dog lol_964
+  - first:
+      213: 3270172329634646956
+    second: han dog lol_965
+  - first:
+      213: 5641324969183657422
+    second: han dog lol_966
+  - first:
+      213: -7766679252029677410
+    second: han dog lol_967
+  - first:
+      213: -4423795312979371307
+    second: han dog lol_968
+  - first:
+      213: 548367887747846340
+    second: han dog lol_969
+  - first:
+      213: -14157669468526147
+    second: han dog lol_970
+  - first:
+      213: -1109409461041719162
+    second: han dog lol_971
+  - first:
+      213: 2107097543462559423
+    second: han dog lol_972
+  - first:
+      213: 3618478148497771834
+    second: han dog lol_973
+  - first:
+      213: 564524052938554875
+    second: han dog lol_974
+  - first:
+      213: 5250593205618798829
+    second: han dog lol_975
+  - first:
+      213: 2360921065869847708
+    second: han dog lol_976
+  - first:
+      213: 3191082891007428983
+    second: han dog lol_977
+  - first:
+      213: 7203948704540878348
+    second: han dog lol_978
+  - first:
+      213: 8819860192927085440
+    second: han dog lol_979
+  - first:
+      213: 3350306089190779622
+    second: han dog lol_980
+  - first:
+      213: 4067727459645352435
+    second: han dog lol_981
+  - first:
+      213: 1826839128984644719
+    second: han dog lol_982
+  - first:
+      213: -1282475911563745318
+    second: han dog lol_983
+  - first:
+      213: -6304055666948808633
+    second: han dog lol_984
+  - first:
+      213: -7369531478365598698
+    second: han dog lol_985
+  - first:
+      213: -8478145397132248062
+    second: han dog lol_986
+  - first:
+      213: -6620336171959945394
+    second: han dog lol_987
+  - first:
+      213: -6483157383527951505
+    second: han dog lol_988
+  - first:
+      213: 367831132238180548
+    second: han dog lol_989
+  - first:
+      213: -2587174184996110549
+    second: han dog lol_990
+  - first:
+      213: 8844682421127509574
+    second: han dog lol_991
+  - first:
+      213: 8539667346209718606
+    second: han dog lol_992
+  - first:
+      213: -5703402242371283778
+    second: han dog lol_993
+  - first:
+      213: -4753067240025899237
+    second: han dog lol_994
+  - first:
+      213: -2167528024644059245
+    second: han dog lol_995
+  - first:
+      213: -4156719337674484817
+    second: han dog lol_996
+  - first:
+      213: 6204203683543384138
+    second: han dog lol_997
+  - first:
+      213: -5862431283993460
+    second: han dog lol_998
+  - first:
+      213: 6595416057673466612
+    second: han dog lol_999
+  - first:
+      213: -8382705294661761689
+    second: han dog lol_1000
+  - first:
+      213: 1145272354987551845
+    second: han dog lol_1001
+  - first:
+      213: -906340978499199825
+    second: han dog lol_1002
+  - first:
+      213: 7607957574111289253
+    second: han dog lol_1003
+  - first:
+      213: -2891153673070057825
+    second: han dog lol_1004
+  - first:
+      213: -439348195434654818
+    second: han dog lol_1005
+  - first:
+      213: 4388167454192903205
+    second: han dog lol_1006
+  - first:
+      213: -5923450364787881809
+    second: han dog lol_1007
+  - first:
+      213: 1460139712084604941
+    second: han dog lol_1008
+  - first:
+      213: 5752087011830554708
+    second: han dog lol_1009
+  - first:
+      213: 334426365706748769
+    second: han dog lol_1010
+  - first:
+      213: -7143868532869104954
+    second: han dog lol_1011
+  - first:
+      213: 23919085523286072
+    second: han dog lol_1012
+  - first:
+      213: -7858609249967356657
+    second: han dog lol_1013
+  - first:
+      213: 1374774041550934509
+    second: han dog lol_1014
+  - first:
+      213: 6075710606410454933
+    second: han dog lol_1015
+  - first:
+      213: -8285007444808489366
+    second: han dog lol_1016
+  - first:
+      213: 874144644954636697
+    second: han dog lol_1017
+  - first:
+      213: -5519575385977775077
+    second: han dog lol_1018
+  - first:
+      213: -5329540741458606183
+    second: han dog lol_1019
+  - first:
+      213: -1456767730443591006
+    second: han dog lol_1020
+  - first:
+      213: 546517793926820449
+    second: han dog lol_1021
+  - first:
+      213: 4259160481558561367
+    second: han dog lol_1022
+  - first:
+      213: -5170409396120422910
+    second: han dog lol_1023
+  - first:
+      213: 7061662947813686066
+    second: han dog lol_1024
+  - first:
+      213: 1941440316838366401
+    second: han dog lol_1025
+  - first:
+      213: 7768539394947248096
+    second: han dog lol_1026
+  - first:
+      213: 6802743052461652764
+    second: han dog lol_1027
+  - first:
+      213: -3821300675100814268
+    second: han dog lol_1028
+  - first:
+      213: 6817042167234598094
+    second: han dog lol_1029
+  - first:
+      213: -5570126291713409561
+    second: han dog lol_1030
+  - first:
+      213: 1890196985468217715
+    second: han dog lol_1031
+  - first:
+      213: 7371808450014199348
+    second: han dog lol_1032
+  - first:
+      213: 3708869730865519357
+    second: han dog lol_1033
+  - first:
+      213: 5852609228149977198
+    second: han dog lol_1034
+  - first:
+      213: -6789162702275426217
+    second: han dog lol_1035
+  - first:
+      213: 3901318173137832757
+    second: han dog lol_1036
+  - first:
+      213: -2165172730244679346
+    second: han dog lol_1037
+  - first:
+      213: -1073640298345831267
+    second: han dog lol_1038
+  - first:
+      213: 2068620964872316130
+    second: han dog lol_1039
+  - first:
+      213: 8291669302525816376
+    second: han dog lol_1040
+  - first:
+      213: 3005115879414592262
+    second: han dog lol_1041
+  - first:
+      213: -1869901545161166687
+    second: han dog lol_1042
+  - first:
+      213: -8845807553730241377
+    second: han dog lol_1043
+  - first:
+      213: 3846393852756212574
+    second: han dog lol_1044
+  - first:
+      213: 243001014271185180
+    second: han dog lol_1045
+  - first:
+      213: 8347004785983626655
+    second: han dog lol_1046
+  - first:
+      213: 606749316782751155
+    second: han dog lol_1047
+  - first:
+      213: 5729600987231991837
+    second: han dog lol_1048
+  - first:
+      213: -8318151246887634031
+    second: han dog lol_1049
+  - first:
+      213: 575228111942338442
+    second: han dog lol_1050
+  - first:
+      213: 7764940327616634118
+    second: han dog lol_1051
+  - first:
+      213: -5775701322120372149
+    second: han dog lol_1052
+  - first:
+      213: -6583816353358380326
+    second: han dog lol_1053
+  - first:
+      213: -3332433193347036744
+    second: han dog lol_1054
+  - first:
+      213: 649663076439816482
+    second: han dog lol_1055
+  - first:
+      213: -8113923156347469851
+    second: han dog lol_1056
+  - first:
+      213: -6002728637980641311
+    second: han dog lol_1057
+  - first:
+      213: 8804448284235683061
+    second: han dog lol_1058
+  - first:
+      213: 7356749506306379927
+    second: han dog lol_1059
+  - first:
+      213: -8147677354058094204
+    second: han dog lol_1060
+  - first:
+      213: -3766146487556231869
+    second: han dog lol_1061
+  - first:
+      213: -7914266584818109987
+    second: han dog lol_1062
+  - first:
+      213: -9161381684736490670
+    second: han dog lol_1063
+  - first:
+      213: -7736494696870564102
+    second: han dog lol_1064
+  - first:
+      213: -7308692692154600132
+    second: han dog lol_1065
+  - first:
+      213: -3519392369551784806
+    second: han dog lol_1066
+  - first:
+      213: 4473525248334427230
+    second: han dog lol_1067
+  - first:
+      213: -5155603415610920307
+    second: han dog lol_1068
+  - first:
+      213: -1988235088944960144
+    second: han dog lol_1069
+  - first:
+      213: 9140561132400283497
+    second: han dog lol_1070
+  - first:
+      213: 5510401070938957163
+    second: han dog lol_1071
+  - first:
+      213: -2798836603634842837
+    second: han dog lol_1072
+  - first:
+      213: -8005797329245673869
+    second: han dog lol_1073
+  - first:
+      213: 2937200963649842182
+    second: han dog lol_1074
+  - first:
+      213: -83212726096142744
+    second: han dog lol_1075
+  - first:
+      213: -3860154917138781172
+    second: han dog lol_1076
+  - first:
+      213: 3702279741374816842
+    second: han dog lol_1077
+  - first:
+      213: 7711568993823882033
+    second: han dog lol_1078
+  - first:
+      213: -6589617946160004041
+    second: han dog lol_1079
+  - first:
+      213: -1012361011510240232
+    second: han dog lol_1080
+  - first:
+      213: 5572561509718893603
+    second: han dog lol_1081
+  - first:
+      213: -5259616599473587792
+    second: han dog lol_1082
+  - first:
+      213: -5421549904220480702
+    second: han dog lol_1083
+  - first:
+      213: 4728014592822105026
+    second: han dog lol_1084
+  - first:
+      213: 1358381888954278257
+    second: han dog lol_1085
+  - first:
+      213: -3364265036805966635
+    second: han dog lol_1086
+  - first:
+      213: -169423063685612037
+    second: han dog lol_1087
+  - first:
+      213: -9189851894103619941
+    second: han dog lol_1088
+  - first:
+      213: -8974569341967778439
+    second: han dog lol_1089
+  - first:
+      213: 2254949890093902752
+    second: han dog lol_1090
+  - first:
+      213: -5928904649616903480
+    second: han dog lol_1091
+  - first:
+      213: -6689285017147814773
+    second: han dog lol_1092
+  - first:
+      213: 6143447240727200405
+    second: han dog lol_1093
+  - first:
+      213: -2261053054041223720
+    second: han dog lol_1094
+  - first:
+      213: 5066005450488125848
+    second: han dog lol_1095
+  - first:
+      213: -4197091207285630849
+    second: han dog lol_1096
+  - first:
+      213: -5575850124825862698
+    second: han dog lol_1097
+  - first:
+      213: 7127341523803495919
+    second: han dog lol_1098
+  - first:
+      213: 4032734530411159472
+    second: han dog lol_1099
+  - first:
+      213: 3602123427076137433
+    second: han dog lol_1100
+  - first:
+      213: 7347136954801311872
+    second: han dog lol_1101
+  - first:
+      213: 4345326991034058709
+    second: han dog lol_1102
+  - first:
+      213: 5189981224505027024
+    second: han dog lol_1103
+  - first:
+      213: -5655981057938668005
+    second: han dog lol_1104
+  - first:
+      213: 3720599222354383424
+    second: han dog lol_1105
+  - first:
+      213: 6077396629085907005
+    second: han dog lol_1106
+  - first:
+      213: 8481526299848982210
+    second: han dog lol_1107
+  - first:
+      213: -5463765867199426269
+    second: han dog lol_1108
+  - first:
+      213: 2561701869239284915
+    second: han dog lol_1109
+  - first:
+      213: -5655778191023099570
+    second: han dog lol_1110
+  - first:
+      213: -2530381449754238756
+    second: han dog lol_1111
+  - first:
+      213: 5830836350202168746
+    second: han dog lol_1112
+  - first:
+      213: -5650716175526279718
+    second: han dog lol_1113
+  - first:
+      213: -8813457960993914752
+    second: han dog lol_1114
+  - first:
+      213: -3954437763860069725
+    second: han dog lol_1115
+  - first:
+      213: 8904689400836292915
+    second: han dog lol_1116
+  - first:
+      213: -1152695986129490201
+    second: han dog lol_1117
+  - first:
+      213: -7889116968780288118
+    second: han dog lol_1118
+  - first:
+      213: 8684393524441875543
+    second: han dog lol_1119
+  - first:
+      213: -2712341808540693121
+    second: han dog lol_1120
+  - first:
+      213: -7985346263546308636
+    second: han dog lol_1121
+  - first:
+      213: -2856855731073592252
+    second: han dog lol_1122
+  - first:
+      213: -417887931348843813
+    second: han dog lol_1123
+  - first:
+      213: 725572906189043530
+    second: han dog lol_1124
+  - first:
+      213: -7143707654628696256
+    second: han dog lol_1125
+  - first:
+      213: 4839157449949541457
+    second: han dog lol_1126
+  - first:
+      213: 2102586600962505383
+    second: han dog lol_1127
+  - first:
+      213: -2142210128610852828
+    second: han dog lol_1128
+  - first:
+      213: 4145756041880530195
+    second: han dog lol_1129
+  - first:
+      213: 2137205947526697324
+    second: han dog lol_1130
+  - first:
+      213: 9204474094676071090
+    second: han dog lol_1131
+  - first:
+      213: 4355616746234184378
+    second: han dog lol_1132
+  - first:
+      213: -1300337272171767974
+    second: han dog lol_1133
+  - first:
+      213: 2268263347148840787
+    second: han dog lol_1134
+  - first:
+      213: -8932702031503372372
+    second: han dog lol_1135
+  - first:
+      213: -4281582653966503872
+    second: han dog lol_1136
+  - first:
+      213: -1864327351754588226
+    second: han dog lol_1137
+  - first:
+      213: 7331405643270019458
+    second: han dog lol_1138
+  - first:
+      213: 4440895795894083821
+    second: han dog lol_1139
+  - first:
+      213: -2155405809494733965
+    second: han dog lol_1140
+  - first:
+      213: 4723013359515759426
+    second: han dog lol_1141
+  - first:
+      213: -2623145677134065720
+    second: han dog lol_1142
+  - first:
+      213: 5458825957971640447
+    second: han dog lol_1143
+  - first:
+      213: 7525162813625462346
+    second: han dog lol_1144
+  - first:
+      213: -8271662169354401804
+    second: han dog lol_1145
+  - first:
+      213: -6975911379331882762
+    second: han dog lol_1146
+  - first:
+      213: 4184230083846191824
+    second: han dog lol_1147
+  - first:
+      213: 6901997615179582800
+    second: han dog lol_1148
+  - first:
+      213: 823421029043306248
+    second: han dog lol_1149
+  - first:
+      213: -2462743787928163453
+    second: han dog lol_1150
+  - first:
+      213: -5502593790026030098
+    second: han dog lol_1151
+  - first:
+      213: 5434915195618580225
+    second: han dog lol_1152
+  - first:
+      213: 925129915383970720
+    second: han dog lol_1153
+  - first:
+      213: 6245225741583301940
+    second: han dog lol_1154
+  - first:
+      213: -549746516708718363
+    second: han dog lol_1155
+  - first:
+      213: 1330310780309148594
+    second: han dog lol_1156
+  - first:
+      213: -6696612307668414343
+    second: han dog lol_1157
+  - first:
+      213: 6695701957733145955
+    second: han dog lol_1158
+  - first:
+      213: -4283180889402626681
+    second: han dog lol_1159
+  - first:
+      213: 6032358428104402903
+    second: han dog lol_1160
+  - first:
+      213: 5862236747012096897
+    second: han dog lol_1161
+  - first:
+      213: 4445887922911729425
+    second: han dog lol_1162
+  - first:
+      213: -8911074192981444862
+    second: han dog lol_1163
+  - first:
+      213: -5322966764559257129
+    second: han dog lol_1164
+  - first:
+      213: -2916185207797237205
+    second: han dog lol_1165
+  - first:
+      213: -3289969739417262265
+    second: han dog lol_1166
+  - first:
+      213: 6773157344660890518
+    second: han dog lol_1167
+  - first:
+      213: -3987835331871828721
+    second: han dog lol_1168
+  - first:
+      213: -8495504135940216404
+    second: han dog lol_1169
+  - first:
+      213: 2622743039178212552
+    second: han dog lol_1170
+  - first:
+      213: 8463692834720030319
+    second: han dog lol_1171
+  - first:
+      213: -7563472795760949450
+    second: han dog lol_1172
+  - first:
+      213: 5770484047151117108
+    second: han dog lol_1173
+  - first:
+      213: -5362779231354369169
+    second: han dog lol_1174
+  - first:
+      213: -396002785494089120
+    second: han dog lol_1175
+  - first:
+      213: -8766643846867983534
+    second: han dog lol_1176
+  - first:
+      213: -4842748869910734995
+    second: han dog lol_1177
+  - first:
+      213: 1657100783490444419
+    second: han dog lol_1178
+  - first:
+      213: 5028246784466549612
+    second: han dog lol_1179
+  - first:
+      213: 7109039144707835779
+    second: han dog lol_1180
+  - first:
+      213: 9099373835058521659
+    second: han dog lol_1181
+  - first:
+      213: -5016700364382293497
+    second: han dog lol_1182
+  - first:
+      213: -1083647257861239759
+    second: han dog lol_1183
+  - first:
+      213: 4087709948412041034
+    second: han dog lol_1184
+  - first:
+      213: 1977952919979651818
+    second: han dog lol_1185
+  - first:
+      213: 5220606703033244114
+    second: han dog lol_1186
+  - first:
+      213: 900551417565893322
+    second: han dog lol_1187
+  - first:
+      213: 3451517193769202329
+    second: han dog lol_1188
+  - first:
+      213: -6353331104744402422
+    second: han dog lol_1189
+  - first:
+      213: -2359890276348111600
+    second: han dog lol_1190
+  - first:
+      213: 4274520969489572455
+    second: han dog lol_1191
+  - first:
+      213: 1454906960287390212
+    second: han dog lol_1192
+  - first:
+      213: -145298603558156879
+    second: han dog lol_1193
+  - first:
+      213: 5643392233024903720
+    second: han dog lol_1194
+  - first:
+      213: 4537187176924141818
+    second: han dog lol_1195
+  - first:
+      213: 9180505650233167164
+    second: han dog lol_1196
+  - first:
+      213: -8958015543209124085
+    second: han dog lol_1197
+  - first:
+      213: -3483606881115955519
+    second: han dog lol_1198
+  - first:
+      213: 818296700723325525
+    second: han dog lol_1199
+  - first:
+      213: -1189442891510011419
+    second: han dog lol_1200
+  - first:
+      213: 2584395795380849856
+    second: han dog lol_1201
+  - first:
+      213: -8413195733099397295
+    second: han dog lol_1202
+  - first:
+      213: -9078447092454281493
+    second: han dog lol_1203
+  - first:
+      213: -8622854643503075957
+    second: han dog lol_1204
+  - first:
+      213: -717796316366989000
+    second: han dog lol_1205
+  - first:
+      213: -5141594911282721523
+    second: han dog lol_1206
+  - first:
+      213: -8884974121353261197
+    second: han dog lol_1207
+  - first:
+      213: -4461822685629129868
+    second: han dog lol_1208
+  - first:
+      213: -8767644308610904799
+    second: han dog lol_1209
+  - first:
+      213: -6332508840242064126
+    second: han dog lol_1210
+  - first:
+      213: -8572822302552138145
+    second: han dog lol_1211
+  - first:
+      213: 3555001835492277853
+    second: han dog lol_1212
+  - first:
+      213: -3918532390770553705
+    second: han dog lol_1213
+  - first:
+      213: -5040543034206770537
+    second: han dog lol_1214
+  - first:
+      213: 2105508009742691065
+    second: han dog lol_1215
+  - first:
+      213: -856320770628250539
+    second: han dog lol_1216
+  - first:
+      213: 2978107839902581040
+    second: han dog lol_1217
+  - first:
+      213: 5059344616976863571
+    second: han dog lol_1218
+  - first:
+      213: -5618362948329549128
+    second: han dog lol_1219
+  - first:
+      213: -6124749668851587377
+    second: han dog lol_1220
+  - first:
+      213: -4477426093535590710
+    second: han dog lol_1221
+  - first:
+      213: 5145599977876343631
+    second: han dog lol_1222
+  - first:
+      213: -3264710220008613330
+    second: han dog lol_1223
+  - first:
+      213: 5611819192150519994
+    second: han dog lol_1224
+  - first:
+      213: 392297008828433959
+    second: han dog lol_1225
+  - first:
+      213: -6229492430334287226
+    second: han dog lol_1226
+  - first:
+      213: -841805220085737557
+    second: han dog lol_1227
+  - first:
+      213: -2789639594503513449
+    second: han dog lol_1228
+  - first:
+      213: 2404385301375138187
+    second: han dog lol_1229
+  - first:
+      213: 6569120181714390002
+    second: han dog lol_1230
+  - first:
+      213: 1851356415991250480
+    second: han dog lol_1231
+  - first:
+      213: 7566773941629871176
+    second: han dog lol_1232
+  - first:
+      213: 4843845733917276349
+    second: han dog lol_1233
+  - first:
+      213: 1457296901079361712
+    second: han dog lol_1234
+  - first:
+      213: 8915082727278357018
+    second: han dog lol_1235
+  - first:
+      213: -6569923579901217946
+    second: han dog lol_1236
+  - first:
+      213: -518328302222746484
+    second: han dog lol_1237
+  - first:
+      213: -3470284898579414346
+    second: han dog lol_1238
+  - first:
+      213: 4802174239845479248
+    second: han dog lol_1239
+  - first:
+      213: -619902922078364882
+    second: han dog lol_1240
+  - first:
+      213: -7510676912129817138
+    second: han dog lol_1241
+  - first:
+      213: 5018602279392307379
+    second: han dog lol_1242
+  - first:
+      213: 5213597717419250056
+    second: han dog lol_1243
+  - first:
+      213: -3765549607156416317
+    second: han dog lol_1244
+  - first:
+      213: 835867822631872624
+    second: han dog lol_1245
+  - first:
+      213: 7525758422757258183
+    second: han dog lol_1246
+  - first:
+      213: -7449205552361129272
+    second: han dog lol_1247
+  - first:
+      213: 8992519569539266509
+    second: han dog lol_1248
+  - first:
+      213: -3972148090382567887
+    second: han dog lol_1249
+  - first:
+      213: -8101007037804059411
+    second: han dog lol_1250
+  - first:
+      213: -286114359586677077
+    second: han dog lol_1251
+  - first:
+      213: 909793628894851523
+    second: han dog lol_1252
+  - first:
+      213: 5639732174002951030
+    second: han dog lol_1253
+  - first:
+      213: -925960352326690637
+    second: han dog lol_1254
+  - first:
+      213: -5210272330830161112
+    second: han dog lol_1255
+  - first:
+      213: -6673939628175252147
+    second: han dog lol_1256
+  - first:
+      213: 8863416995918169886
+    second: han dog lol_1257
+  - first:
+      213: 8875050405632337042
+    second: han dog lol_1258
+  - first:
+      213: 5519074164255209015
+    second: han dog lol_1259
+  - first:
+      213: 2948104807651106909
+    second: han dog lol_1260
+  - first:
+      213: -2784070078614120121
+    second: han dog lol_1261
+  - first:
+      213: -4808975759093375930
+    second: han dog lol_1262
+  - first:
+      213: 8008642381909243459
+    second: han dog lol_1263
+  - first:
+      213: 1097420132395784302
+    second: han dog lol_1264
+  - first:
+      213: 5483901164717067385
+    second: han dog lol_1265
+  - first:
+      213: 6518687730342985619
+    second: han dog lol_1266
+  - first:
+      213: 375447599655167271
+    second: han dog lol_1267
+  - first:
+      213: 2424819263826929680
+    second: han dog lol_1268
+  - first:
+      213: 7976749359023330467
+    second: han dog lol_1269
+  - first:
+      213: -1109931133072314603
+    second: han dog lol_1270
+  - first:
+      213: -7278092172167501324
+    second: han dog lol_1271
+  - first:
+      213: -8394898553306295313
+    second: han dog lol_1272
+  - first:
+      213: -2759864253795340069
+    second: han dog lol_1273
+  - first:
+      213: 8732281645168067358
+    second: han dog lol_1274
+  - first:
+      213: -6265163510592794346
+    second: han dog lol_1275
+  - first:
+      213: 76181821050805503
+    second: han dog lol_1276
+  - first:
+      213: 4245122853764777189
+    second: han dog lol_1277
+  - first:
+      213: -1417589933827703739
+    second: han dog lol_1278
+  - first:
+      213: -816040892937769955
+    second: han dog lol_1279
+  - first:
+      213: -1301097004539137620
+    second: han dog lol_1280
+  - first:
+      213: 1595996307363241922
+    second: han dog lol_1281
+  - first:
+      213: 8124095794205265301
+    second: han dog lol_1282
+  - first:
+      213: 2163051428812091590
+    second: han dog lol_1283
+  - first:
+      213: -5392298546946806554
+    second: han dog lol_1284
+  - first:
+      213: 6403244506374660856
+    second: han dog lol_1285
+  - first:
+      213: -2401259130312220129
+    second: han dog lol_1286
+  - first:
+      213: 5521617565175521666
+    second: han dog lol_1287
+  - first:
+      213: -8932072484291226530
+    second: han dog lol_1288
+  - first:
+      213: 9130047134933926307
+    second: han dog lol_1289
+  - first:
+      213: 2892637034986441466
+    second: han dog lol_1290
+  - first:
+      213: -8971893076548928358
+    second: han dog lol_1291
+  - first:
+      213: -2415472827479165158
+    second: han dog lol_1292
+  - first:
+      213: 1777264264624897528
+    second: han dog lol_1293
+  - first:
+      213: -8720160943197131953
+    second: han dog lol_1294
+  - first:
+      213: -7849174562187730057
+    second: han dog lol_1295
+  - first:
+      213: 8437241159605227410
+    second: han dog lol_1296
+  - first:
+      213: -4065464223286413113
+    second: han dog lol_1297
+  - first:
+      213: -6662009814687570625
+    second: han dog lol_1298
+  - first:
+      213: 7881823960852425143
+    second: han dog lol_1299
+  - first:
+      213: 3378036899151706090
+    second: han dog lol_1300
+  - first:
+      213: 5734015066676969975
+    second: han dog lol_1301
+  - first:
+      213: 4874020898618894124
+    second: han dog lol_1302
+  - first:
+      213: 58224551739743502
+    second: han dog lol_1303
+  - first:
+      213: 1310008744064551512
+    second: han dog lol_1304
+  - first:
+      213: -9092677607269590631
+    second: han dog lol_1305
+  - first:
+      213: -1004121181613198067
+    second: han dog lol_1306
+  - first:
+      213: 4634994069657642363
+    second: han dog lol_1307
+  - first:
+      213: -5639960300078539519
+    second: han dog lol_1308
+  - first:
+      213: 9052854427135785425
+    second: han dog lol_1309
+  - first:
+      213: 3836798843009857500
+    second: han dog lol_1310
+  - first:
+      213: 2949125306779703623
+    second: han dog lol_1311
+  - first:
+      213: -6365945410018716492
+    second: han dog lol_1312
+  - first:
+      213: -4209528602109028290
+    second: han dog lol_1313
+  - first:
+      213: -4890701401254127073
+    second: han dog lol_1314
+  - first:
+      213: -4193037112731543635
+    second: han dog lol_1315
+  - first:
+      213: 3332841366686982604
+    second: han dog lol_1316
+  - first:
+      213: 4642384455375436463
+    second: han dog lol_1317
+  - first:
+      213: -4727355553737507170
+    second: han dog lol_1318
+  - first:
+      213: -6836634775684731164
+    second: han dog lol_1319
+  - first:
+      213: 7552126888475866952
+    second: han dog lol_1320
+  - first:
+      213: 4594141707106352523
+    second: han dog lol_1321
+  - first:
+      213: 6051162158208956028
+    second: han dog lol_1322
+  - first:
+      213: -1251740839094159209
+    second: han dog lol_1323
+  - first:
+      213: 8179450821499729054
+    second: han dog lol_1324
+  - first:
+      213: 8414506973914117561
+    second: han dog lol_1325
+  - first:
+      213: 6293219227661206465
+    second: han dog lol_1326
+  - first:
+      213: 6530362575154890669
+    second: han dog lol_1327
+  - first:
+      213: -5288061466339071543
+    second: han dog lol_1328
+  - first:
+      213: -2749652858591550820
+    second: han dog lol_1329
+  - first:
+      213: 7230878951441930579
+    second: han dog lol_1330
+  - first:
+      213: -3677229010814192327
+    second: han dog lol_1331
+  - first:
+      213: 5106739902557325872
+    second: han dog lol_1332
+  - first:
+      213: -4985209356808673284
+    second: han dog lol_1333
+  - first:
+      213: 4577889850204109454
+    second: han dog lol_1334
+  - first:
+      213: -886602495357653508
+    second: han dog lol_1335
+  - first:
+      213: 5182321621363966767
+    second: han dog lol_1336
+  - first:
+      213: 2052752795313530516
+    second: han dog lol_1337
+  - first:
+      213: 1353483027675820284
+    second: han dog lol_1338
+  - first:
+      213: -5384440469438526080
+    second: han dog lol_1339
+  - first:
+      213: -7191565026926456613
+    second: han dog lol_1340
+  - first:
+      213: 653000160898234311
+    second: han dog lol_1341
+  - first:
+      213: -4699724946282543013
+    second: han dog lol_1342
+  - first:
+      213: 4551911606700834462
+    second: han dog lol_1343
+  - first:
+      213: -9163055172045020986
+    second: han dog lol_1344
+  - first:
+      213: 434248159969128378
+    second: han dog lol_1345
+  - first:
+      213: 6460746714350511207
+    second: han dog lol_1346
+  - first:
+      213: 2776103916890696417
+    second: han dog lol_1347
+  - first:
+      213: 4292536696739267895
+    second: han dog lol_1348
+  - first:
+      213: 5558741090690937891
+    second: han dog lol_1349
+  - first:
+      213: 3298783508079761165
+    second: han dog lol_1350
+  - first:
+      213: 2495559227773155338
+    second: han dog lol_1351
+  - first:
+      213: 2382345123384547759
+    second: han dog lol_1352
+  - first:
+      213: -3690313193569233630
+    second: han dog lol_1353
+  - first:
+      213: 3234203503796217040
+    second: han dog lol_1354
+  - first:
+      213: -3140343076854154601
+    second: han dog lol_1355
+  - first:
+      213: -4234395603928260829
+    second: han dog lol_1356
+  - first:
+      213: -8158595716465848444
+    second: han dog lol_1357
+  - first:
+      213: 5783013160768756079
+    second: han dog lol_1358
+  - first:
+      213: -2387295516548065425
+    second: han dog lol_1359
+  - first:
+      213: 3703554883983299635
+    second: han dog lol_1360
+  - first:
+      213: 262912040447337217
+    second: han dog lol_1361
+  - first:
+      213: 3866838827692226614
+    second: han dog lol_1362
+  - first:
+      213: 301859503719353269
+    second: han dog lol_1363
+  - first:
+      213: -8088161625621263698
+    second: han dog lol_1364
+  - first:
+      213: -8991883904474909344
+    second: han dog lol_1365
+  - first:
+      213: -9100270134626048192
+    second: han dog lol_1366
+  - first:
+      213: 1752449858410897758
+    second: han dog lol_1367
+  - first:
+      213: -8419288385531097544
+    second: han dog lol_1368
+  - first:
+      213: -2418978312950980540
+    second: han dog lol_1369
+  - first:
+      213: -3091473598496475486
+    second: han dog lol_1370
+  - first:
+      213: 8623186949073090753
+    second: han dog lol_1371
+  - first:
+      213: 4512623815766376793
+    second: han dog lol_1372
+  - first:
+      213: -1728471786883639910
+    second: han dog lol_1373
+  - first:
+      213: 4467710510750815838
+    second: han dog lol_1374
+  - first:
+      213: 1954171813335432622
+    second: han dog lol_1375
+  - first:
+      213: 5773980139298525669
+    second: han dog lol_1376
+  - first:
+      213: 942052797267540011
+    second: han dog lol_1377
+  - first:
+      213: -3408557416334761024
+    second: han dog lol_1378
+  - first:
+      213: 1467343066547633465
+    second: han dog lol_1379
+  - first:
+      213: 5628160222259206248
+    second: han dog lol_1380
+  - first:
+      213: 7096238813351113289
+    second: han dog lol_1381
+  - first:
+      213: 4592800947982818734
+    second: han dog lol_1382
+  - first:
+      213: 4120464116074930385
+    second: han dog lol_1383
+  - first:
+      213: 939142775307172460
+    second: han dog lol_1384
+  - first:
+      213: 5559033285688329918
+    second: han dog lol_1385
+  - first:
+      213: -8934128781088858321
+    second: han dog lol_1386
+  - first:
+      213: 7317123435387712336
+    second: han dog lol_1387
+  - first:
+      213: 1210381825974621089
+    second: han dog lol_1388
+  - first:
+      213: 4047408112754260005
+    second: han dog lol_1389
+  - first:
+      213: -5877765616728715955
+    second: han dog lol_1390
+  - first:
+      213: -6049403801279165709
+    second: han dog lol_1391
+  - first:
+      213: -3231901572780204744
+    second: han dog lol_1392
+  - first:
+      213: -7208047176196023938
+    second: han dog lol_1393
+  - first:
+      213: 4529633594091565405
+    second: han dog lol_1394
+  - first:
+      213: 798093327675792479
+    second: han dog lol_1395
+  - first:
+      213: 7521595376109914201
+    second: han dog lol_1396
+  - first:
+      213: 7428687990633283773
+    second: han dog lol_1397
+  - first:
+      213: -1829112755288584331
+    second: han dog lol_1398
+  - first:
+      213: -1641466863662936189
+    second: han dog lol_1399
+  - first:
+      213: -2643221009332825530
+    second: han dog lol_1400
+  - first:
+      213: -7075910382163651250
+    second: han dog lol_1401
+  - first:
+      213: 5738790771530563362
+    second: han dog lol_1402
+  - first:
+      213: -7084265249164331421
+    second: han dog lol_1403
+  - first:
+      213: 7755161362529117920
+    second: han dog lol_1404
+  - first:
+      213: 8756810829474809917
+    second: han dog lol_1405
+  - first:
+      213: 4248092452176434169
+    second: han dog lol_1406
+  - first:
+      213: -1827504052017582021
+    second: han dog lol_1407
+  - first:
+      213: 2904959478031154937
+    second: han dog lol_1408
+  - first:
+      213: -1031684672279829457
+    second: han dog lol_1409
+  - first:
+      213: 6499308042169381992
+    second: han dog lol_1410
+  - first:
+      213: -4055620332157328120
+    second: han dog lol_1411
+  - first:
+      213: 8830225672011847483
+    second: han dog lol_1412
+  - first:
+      213: 5256210875684549493
+    second: han dog lol_1413
+  - first:
+      213: 4015107345389274395
+    second: han dog lol_1414
+  - first:
+      213: 691958612456681504
+    second: han dog lol_1415
+  - first:
+      213: 1824209336571230860
+    second: han dog lol_1416
+  - first:
+      213: 802296310617663778
+    second: han dog lol_1417
+  - first:
+      213: 6576627791867161136
+    second: han dog lol_1418
+  - first:
+      213: 7521996732516363906
+    second: han dog lol_1419
+  - first:
+      213: -3441752092038584279
+    second: han dog lol_1420
+  - first:
+      213: 1771880760020505261
+    second: han dog lol_1421
+  - first:
+      213: 1696247057688319673
+    second: han dog lol_1422
+  - first:
+      213: 8913531241523789778
+    second: han dog lol_1423
+  - first:
+      213: 6997012139405306003
+    second: han dog lol_1424
+  - first:
+      213: 1914278650337430209
+    second: han dog lol_1425
+  - first:
+      213: -4080900924161532433
+    second: han dog lol_1426
+  - first:
+      213: 5281642580965693331
+    second: han dog lol_1427
+  - first:
+      213: -8349862614998130908
+    second: han dog lol_1428
+  - first:
+      213: 3861285409828759299
+    second: han dog lol_1429
+  - first:
+      213: -8328577245057350155
+    second: han dog lol_1430
+  - first:
+      213: -7147641696170932984
+    second: han dog lol_1431
+  - first:
+      213: 6725954131177432739
+    second: han dog lol_1432
+  - first:
+      213: 8798975711956124898
+    second: han dog lol_1433
+  - first:
+      213: 7521343629181519019
+    second: han dog lol_1434
+  - first:
+      213: 956344121184345301
+    second: han dog lol_1435
+  - first:
+      213: -2090336718321743801
+    second: han dog lol_1436
+  - first:
+      213: -6267469465343998810
+    second: han dog lol_1437
+  - first:
+      213: -4121369464999649352
+    second: han dog lol_1438
+  - first:
+      213: 97166137689476120
+    second: han dog lol_1439
+  - first:
+      213: 2983471152805975048
+    second: han dog lol_1440
+  - first:
+      213: 6635890870172082635
+    second: han dog lol_1441
+  - first:
+      213: 5606129789202258471
+    second: han dog lol_1442
+  - first:
+      213: 2605944318447506737
+    second: han dog lol_1443
+  - first:
+      213: -8853711532477441900
+    second: han dog lol_1444
+  - first:
+      213: -8996481030980385697
+    second: han dog lol_1445
+  - first:
+      213: 549019109659553006
+    second: han dog lol_1446
+  - first:
+      213: 4157593455127925095
+    second: han dog lol_1447
+  - first:
+      213: -293630745659872615
+    second: han dog lol_1448
+  - first:
+      213: -8451660669131495956
+    second: han dog lol_1455
+  - first:
+      213: -8773866013939078539
+    second: han dog lol_1456
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: han dog lol_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6f84a908eda830800000000000000
+      internalID: 4084175565208120854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13563bd641ae47860800000000000000
+      internalID: 7526898250703660337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1218cacf1f1ec0800000000000000
+      internalID: -3594119021817881368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e7ad5668b63c880800000000000000
+      internalID: -8591905439114166687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a00acab2667f1c0800000000000000
+      internalID: -4469991767376131577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb682bfd0901be0800000000000000
+      internalID: -1508546584721834573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635620297e3ac2cd0800000000000000
+      internalID: -2581508271407733450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_7
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b31a3162bac78f0800000000000000
+      internalID: -541369675164861651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: han dog lol_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 144
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9eabab21e386480800000000000000
+      internalID: -8905800012962010703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f036d9bd127ba3c4aab4d1ca25ef9cb0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

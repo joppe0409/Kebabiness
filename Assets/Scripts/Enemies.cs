@@ -54,8 +54,8 @@ public class Enemies : MonoBehaviour
         Instantiate(floatingText, transform.position, Quaternion.identity);
         health -= 1;
         print("pang");
-        anim.SetBool("isDead", true);
-
+      
+;
     }
  
     public void die()

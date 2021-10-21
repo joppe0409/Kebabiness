@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
     public GameObject floatingText;
-
+    private Animator anim;
     public int health;
     public GameObject[] enemies;
     public Vector3[] spawnPos;
@@ -23,7 +23,7 @@ public class Enemies : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent < Animator>();
         rb = this.GetComponent<Rigidbody2D>();
         StartCoroutine(SpawnEnemies());
        
@@ -52,10 +52,10 @@ public class Enemies : MonoBehaviour
     public void takeDamage()
     {
         Instantiate(floatingText, transform.position, Quaternion.identity);
-       
         health -= 1;
         print("pang");
-  
+        anim.SetBool("isDead", true);
+
     }
  
     public void die()

@@ -12,11 +12,14 @@ public class Player : MonoBehaviour
 
     Vector2 movement;
 
-    float playerHP = 3;
+    public float playerHP = 5;
+
+    public UI ui;
 
     public void Start()
     {
-        playerHP = 3;
+        playerHP = 5;
+        ui.UpdateHealth(1);
     }
 
 
@@ -50,6 +53,11 @@ public class Player : MonoBehaviour
             PlayerDeath();
         }
 
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage();
+        }
+
     }
 
     void FixedUpdate()
@@ -57,18 +65,26 @@ public class Player : MonoBehaviour
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+   /* private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "enemy")
         {
-            playerHP -= 1;
+            TakeDamage();
         }
     }
+    */
+    public void TakeDamage()
+    {
+        playerHP--;
+        ui.UpdateHealth(ui.getHealth() - 0.2f);
+    }
 
-    private void PlayerDeath()
+    public void PlayerDeath()
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+
 
 
 }

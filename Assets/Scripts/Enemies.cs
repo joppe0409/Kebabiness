@@ -17,6 +17,8 @@ public class Enemies : MonoBehaviour
 
     public bool spawnTrue;
 
+    public float damage;
+
    
     // Start is called before the first frame update
     void Start()
@@ -51,7 +53,7 @@ public class Enemies : MonoBehaviour
     {
         Instantiate(floatingText, transform.position, Quaternion.identity);
        
-        health = -1;
+        health -= 1;
         print("pang");
   
     }

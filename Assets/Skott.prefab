@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3140487033661545156}
   - component: {fileID: 3182448324976298154}
   - component: {fileID: 2558058019133604936}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Skott
   m_TagString: skott
   m_Icon: {fileID: 0}

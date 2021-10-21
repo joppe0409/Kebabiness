@@ -28,5 +28,7 @@ public class Frog : Enemies
             takeDamage(); // Kör funktionen takeDamage i skriptet som denna ärver från, Johan.
             die(); // Kör funktionen die i arv skriptet, Johan.
         }
+
+        
     }
 }

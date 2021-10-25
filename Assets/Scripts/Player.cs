@@ -13,6 +13,10 @@ public class Player : MonoBehaviour
     Vector2 movement;
 
     // Variabler för spelarens hp - Meher
+    [SerializeField]
+    private bool isInvincible;
+    [SerializeField]
+    private float iFrames;
     public float playerHP;
     public UI ui; // Refererar till UI skriptet för att använda funktioner för att ändra på health bar - Meher
 
@@ -53,6 +57,10 @@ public class Player : MonoBehaviour
             PlayerDeath();
         }
 
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage();
+        }
 
     }
 
@@ -71,8 +79,11 @@ public class Player : MonoBehaviour
     
     public void TakeDamage() // Funktion som både ändrar på healthbaren och hp variabeln på spelaren - Meher
     {
+        if (isInvincible == true) return;
         playerHP--;
         ui.UpdateHealth(ui.getHealth() - 0.2f);
+
+        StartCoroutine(InvincibilityFrames());
     }
 
     public void PlayerDeath() // Funktion som kallas på när spelaren dör - Meher
@@ -82,7 +93,11 @@ public class Player : MonoBehaviour
 
     private IEnumerator InvincibilityFrames()
     {
-        yield return null;
+        isInvincible = true;
+
+        yield return new WaitForSeconds(iFrames);
+
+        isInvincible = false;
     }
 
 

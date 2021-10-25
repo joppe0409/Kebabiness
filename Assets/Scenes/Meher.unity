@@ -703,6 +703,8 @@ MonoBehaviour:
   moveSpeed: 5
   rb: {fileID: 1192235344}
   animator: {fileID: 1192235340}
+  isInvincible: 0
+  iFrames: 1.5
   playerHP: 5
   ui: {fileID: 496005794}
 --- !u!95 &1192235340

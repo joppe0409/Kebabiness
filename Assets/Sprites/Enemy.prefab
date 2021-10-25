@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7675078676884027184}
   - component: {fileID: 2390739090756115318}
   - component: {fileID: 4539823641772728363}
+  - component: {fileID: -4173768986504829954}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: enemy
@@ -98,11 +99,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d44c54dc7e6be24f8441cae6db91fbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  floatingText: {fileID: 0}
   health: 0
   enemies: []
   spawnPos: []
   player: {fileID: 5360546077975224452, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
   moveSpeed: 5
+  spawnTrue: 0
+  damage: 0
 --- !u!114 &7675078676884027184
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115,11 +119,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3ea40fd13fa09148836fe4c2aaf7fb9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  floatingText: {fileID: 0}
   health: 1
   enemies: []
   spawnPos: []
   player: {fileID: 0}
   moveSpeed: 5
+  spawnTrue: 0
+  damage: 0
 --- !u!61 &2390739090756115318
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -167,3 +174,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!95 &-4173768986504829954
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2247190553102220603}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 75963a310d014284096533484e2ca1d7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

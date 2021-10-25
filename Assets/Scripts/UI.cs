@@ -7,11 +7,6 @@ public class UI : MonoBehaviour
 {
     public Image healthBar;
 
-    public Player player;
-
-   
-   
-
     // Start is called before the first frame update
     void Start()
     {
@@ -24,12 +19,12 @@ public class UI : MonoBehaviour
         
     }
 
-  public float getHealth()
+  public float getHealth() // Tar värdet av hur mycket healthbar är fylld - Meher
     {
         return healthBar.fillAmount;
     }   
  
-    public void UpdateHealth(float value)
+    public void UpdateHealth(float value) // Sätter mängden healthbar är fylld till en variabel - Meher
     {
         healthBar.fillAmount = value;
         

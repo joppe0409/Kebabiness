@@ -5,9 +5,10 @@ using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
     public GameObject floatingText;
-
+    private Animator anim; //-Freja
     public int health;
     public GameObject[] enemies;
+    public GameObject frog;
     public Vector3[] spawnPos;
 
     public Transform player;
@@ -23,7 +24,7 @@ public class Enemies : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent < Animator>();
         rb = this.GetComponent<Rigidbody2D>();
         StartCoroutine(SpawnEnemies());
        
@@ -52,18 +53,18 @@ public class Enemies : MonoBehaviour
     public void takeDamage()
     {
         Instantiate(floatingText, transform.position, Quaternion.identity);
-       
         health -= 1;
         print("pang");
-  
+      
+;
     }
  
-    public void die()
+    public virtual void die()
     {
         if(health <= 0)
         {
             Instantiate(floatingText, transform.position, Quaternion.identity);
-          
+            
             Destroy(gameObject);
         }
     }

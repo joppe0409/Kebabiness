@@ -5,18 +5,22 @@ using UnityEngine;
 public class Frog : Enemies
 {
     AudioManager aM;
+    public Vector3 frogPos;
     // Start is called before the first frame update
     void Start()
     {
+        
         aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
         health = 2;
         damage = 2;
+        StartCoroutine(spawnFrog());
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-
+       
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -30,5 +34,14 @@ public class Frog : Enemies
         }
 
         
+    }
+    IEnumerator spawnFrog()
+    {
+        while (spawnTrue)
+        {
+            Instantiate(frog, frogPos, Quaternion.identity);
+            yield return new WaitForSeconds(5);
+        }
+    
     }
 }

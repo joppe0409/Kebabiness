@@ -37,8 +37,9 @@ public class Frog : Enemies
     }
     IEnumerator spawnFrog()
     {
-        while (spawnTrue)
+        while (spawnTrue == true)
         {
+            print("alla MAMMA KNULLARE");
             Instantiate(frog, frogPos, Quaternion.identity);
             yield return new WaitForSeconds(5);
         }

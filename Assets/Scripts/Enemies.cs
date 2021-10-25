@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
     public GameObject floatingText;
-    private Animator anim;
+    private Animator anim; //-Freja
     public int health;
     public GameObject[] enemies;
     public GameObject frog;

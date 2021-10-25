@@ -6,14 +6,14 @@ public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren 
 {
     AudioManager aM;
 
-    
+    public Animator anim;
     void Start()
     {
         aM = FindObjectOfType<AudioManager>(); // Hittar objektet AudioManager - Freja Holmgren Jakobsson (hjälp av Johan)
         health = 1;
         damage = 1;
     }
-
+    
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.tag == "skott")
@@ -21,12 +21,15 @@ public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren 
             FindObjectOfType<AudioManager>().Play("Boom");
             ScreenShakeController.instance.startShake(.1f, .2f); // Denna rad kod refererar till screenShakeController skriptet, som är skrivet av Johan, och startar fuktionen startShake - Freja Holmgren Jakobsson.
             takeDamage(); // Denna kör funktionen "takeDamage" i från Enemies scriptet vilket detta script ärver ifrån - Freja Holmgren Jakobsson
-            die(); // Denna kör funktionen "die" i arv skriptet - Freja Holmgren Jakobsson.
+            die(anim); // Denna kör funktionen "die" i arv skriptet - Freja Holmgren Jakobsson.
             
         }
 
 
     }
 
-    
+    public void Death()
+    {
+        Destroy(gameObject);
+    }
 }

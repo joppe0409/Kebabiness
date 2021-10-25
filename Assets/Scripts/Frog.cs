@@ -39,7 +39,7 @@ public class Frog : Enemies
     {
         while (spawnTrue == true)
         {
-            print("alla MAMMA KNULLARE");
+            print("Ribbit");
             Instantiate(frog, frogPos, Quaternion.identity);
             yield return new WaitForSeconds(5);
         }

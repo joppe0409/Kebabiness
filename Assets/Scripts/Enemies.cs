@@ -63,8 +63,8 @@ public class Enemies : MonoBehaviour
     {
         if(health <= 0)
         {
-            Instantiate(floatingText, transform.position, Quaternion.identity);
             
+            Instantiate(floatingText, transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
     }

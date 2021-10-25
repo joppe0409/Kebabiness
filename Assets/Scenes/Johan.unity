@@ -131,6 +131,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: frog
+      value: 
+      objectReference: {fileID: 1062013402530596169}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: speed
       value: 3
       objectReference: {fileID: 0}
@@ -165,7 +169,7 @@ PrefabInstance:
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: enemies.Array.data[1]
       value: 
-      objectReference: {fileID: 1062013402530596169}
+      objectReference: {fileID: 2009543042}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: enemies.Array.data[2]
       value: 
@@ -919,11 +923,13 @@ MonoBehaviour:
   floatingText: {fileID: 0}
   health: 2
   enemies: []
+  frog: {fileID: 1062013402530596169}
   spawnPos: []
   player: {fileID: 0}
   moveSpeed: 5
   spawnTrue: 0
   damage: 0
+  frogPos: {x: 0, y: 0, z: 0}
 --- !u!1001 &2580991801538652352
 PrefabInstance:
   m_ObjectHideFlags: 0

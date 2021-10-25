@@ -8,6 +8,7 @@ public class Enemies : MonoBehaviour
     private Animator anim; //-Freja
     public int health;
     public GameObject[] enemies;
+    public GameObject frog;
     public Vector3[] spawnPos;
 
     public Transform player;
@@ -58,7 +59,7 @@ public class Enemies : MonoBehaviour
 ;
     }
  
-    public void die()
+    public virtual void die()
     {
         if(health <= 0)
         {

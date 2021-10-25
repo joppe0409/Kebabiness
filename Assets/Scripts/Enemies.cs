@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
     public GameObject floatingText;
-    //public Animator anim; //-Freja
+    
     public int health;
     public GameObject[] enemies;
     public GameObject frog;
@@ -24,7 +24,7 @@ public class Enemies : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       // anim = GetComponent < Animator>();
+      
         rb = this.GetComponent<Rigidbody2D>();
         StartCoroutine(SpawnEnemies());
        
@@ -40,10 +40,7 @@ public class Enemies : MonoBehaviour
         direction.Normalize();
         movement = direction;
     }
-    private void FixedUpdate()
-    {
-        moveEnemy(movement);
-    }
+   
     void moveEnemy(Vector2 direction)
     {
         rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));

@@ -30,15 +30,16 @@ public class Frog : Enemies
             FindObjectOfType<AudioManager>().Play("Boom");
             ScreenShakeController.instance.startShake(.1f, .2f); // refererar till screenShakeController skriptet och startar fuktionen startShake, Johan.
             takeDamage(); // Kör funktionen takeDamage i skriptet som denna ärver från, Johan.
-            die(); // Kör funktionen die i arv skriptet, Johan.
+            //die(); // Kör funktionen die i arv skriptet, Johan.
         }
 
         
     }
     IEnumerator spawnFrog()
     {
-        while (spawnTrue)
+        while (spawnTrue == true)
         {
+            print("Ribbit");
             Instantiate(frog, frogPos, Quaternion.identity);
             yield return new WaitForSeconds(5);
         }

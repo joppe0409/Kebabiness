@@ -44,6 +44,8 @@ public class Enemies : MonoBehaviour
         direction.Normalize();
         movement = direction;
         moveEnemy(movement);
+
+        print(points);
     }
    
     void moveEnemy(Vector2 direction)

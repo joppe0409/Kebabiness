@@ -6,6 +6,7 @@ public class Frog : Enemies
 {
     AudioManager aM;
     public Vector3 frogPos;
+    public Animator anim;
     // Start is called before the first frame update
     void Start()
     {
@@ -30,7 +31,7 @@ public class Frog : Enemies
             FindObjectOfType<AudioManager>().Play("Boom");
             ScreenShakeController.instance.startShake(.1f, .2f); // refererar till screenShakeController skriptet och startar fuktionen startShake, Johan.
             takeDamage(); // Kör funktionen takeDamage i skriptet som denna ärver från, Johan.
-            die(); // Kör funktionen die i arv skriptet, Johan.
+            die(anim); // Kör funktionen die i arv skriptet, Johan.
         }
 
 

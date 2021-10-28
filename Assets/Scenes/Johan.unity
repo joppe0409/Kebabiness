@@ -1215,7 +1215,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3096854810030702242, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
       propertyPath: m_Constraints
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4761813831951350018, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
       propertyPath: m_Name

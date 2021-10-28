@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: fa0c1346beafbac43a0c766b1cb3beef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1055610373801682800
+    second: CutenessOverloadGif (1)_0
+  - first:
+      213: -7435693405404928358
+    second: CutenessOverloadGif (1)_1
+  - first:
+      213: -8256224008550898123
+    second: CutenessOverloadGif (1)_2
+  - first:
+      213: -6729549018438007386
+    second: CutenessOverloadGif (1)_3
+  - first:
+      213: -3830472500466352283
+    second: CutenessOverloadGif (1)_4
+  - first:
+      213: 9149655298876503457
+    second: CutenessOverloadGif (1)_5
+  - first:
+      213: 7143278495378051645
+    second: CutenessOverloadGif (1)_6
+  - first:
+      213: 3657614797083448133
+    second: CutenessOverloadGif (1)_7
+  - first:
+      213: -6958330851041506728
+    second: CutenessOverloadGif (1)_8
+  - first:
+      213: -4582496006730372719
+    second: CutenessOverloadGif (1)_9
+  - first:
+      213: -357413810208390751
+    second: CutenessOverloadGif (1)_10
+  - first:
+      213: -2637487002594846522
+    second: CutenessOverloadGif (1)_11
+  - first:
+      213: 1688708549035419336
+    second: CutenessOverloadGif (1)_12
+  - first:
+      213: 5870330071638727632
+    second: CutenessOverloadGif (1)_13
+  - first:
+      213: 3085193894910440957
+    second: CutenessOverloadGif (1)_14
+  - first:
+      213: 2668669987853081154
+    second: CutenessOverloadGif (1)_15
+  - first:
+      213: 4233947196606672364
+    second: CutenessOverloadGif (1)_16
+  - first:
+      213: 1599651340863398136
+    second: CutenessOverloadGif (1)_17
+  - first:
+      213: -91468726133461065
+    second: CutenessOverloadGif (1)_18
+  - first:
+      213: -1950871119090044950
+    second: CutenessOverloadGif (1)_19
+  - first:
+      213: 6139137132620896183
+    second: CutenessOverloadGif (1)_20
+  - first:
+      213: 780256870773273315
+    second: CutenessOverloadGif (1)_21
+  - first:
+      213: 4821289570830356224
+    second: CutenessOverloadGif (1)_22
+  - first:
+      213: -4284170860009486842
+    second: CutenessOverloadGif (1)_23
+  - first:
+      213: -4637088702934770483
+    second: CutenessOverloadGif (1)_24
+  - first:
+      213: 6397027064180682100
+    second: CutenessOverloadGif (1)_25
+  - first:
+      213: 5591753012229489859
+    second: CutenessOverloadGif (1)_26
+  - first:
+      213: 4623024669409005958
+    second: CutenessOverloadGif (1)_27
+  - first:
+      213: -6924440336088791091
+    second: CutenessOverloadGif (1)_28
+  - first:
+      213: -9047603835293108509
+    second: CutenessOverloadGif (1)_29
+  - first:
+      213: -555161522242787321
+    second: CutenessOverloadGif (1)_30
+  - first:
+      213: -4022649889256829323
+    second: CutenessOverloadGif (1)_31
+  - first:
+      213: 2491799651640074825
+    second: CutenessOverloadGif (1)_32
+  - first:
+      213: 8823237074771781691
+    second: CutenessOverloadGif (1)_33
+  - first:
+      213: -9194129206531133657
+    second: CutenessOverloadGif (1)_34
+  - first:
+      213: 4786729082761392224
+    second: CutenessOverloadGif (1)_35
+  - first:
+      213: 7624002128685220057
+    second: CutenessOverloadGif (1)_36
+  - first:
+      213: 7260599645043342015
+    second: CutenessOverloadGif (1)_37
+  - first:
+      213: 4671704675447181440
+    second: CutenessOverloadGif (1)_38
+  - first:
+      213: -3707809930207656974
+    second: CutenessOverloadGif (1)_39
+  - first:
+      213: -1560138451251043905
+    second: CutenessOverloadGif (1)_40
+  - first:
+      213: -3814737429875562304
+    second: CutenessOverloadGif (1)_41
+  - first:
+      213: 6295307367553076834
+    second: CutenessOverloadGif (1)_42
+  - first:
+      213: 5906330503934167724
+    second: CutenessOverloadGif (1)_43
+  - first:
+      213: 4763904371507999444
+    second: CutenessOverloadGif (1)_44
+  - first:
+      213: -3010932219765516201
+    second: CutenessOverloadGif (1)_45
+  - first:
+      213: 6520330203592849270
+    second: CutenessOverloadGif (1)_46
+  - first:
+      213: -8991682093765426260
+    second: CutenessOverloadGif (1)_47
+  - first:
+      213: 5307084773109215686
+    second: CutenessOverloadGif (1)_48
+  - first:
+      213: -5693487985897531779
+    second: CutenessOverloadGif (1)_49
+  - first:
+      213: 4164703439249532596
+    second: CutenessOverloadGif (1)_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7235
+        width: 2297
+        height: 2365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098555835f7b951f0800000000000000
+      internalID: -1055610373801682800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 7218
+        width: 2367
+        height: 2382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ef186e3c1fc890800000000000000
+      internalID: -7435693405404928358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_2
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 7184
+        width: 2502
+        height: 2416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a540f1000c6d80800000000000000
+      internalID: -8256224008550898123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_3
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 8984
+        width: 858
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 616, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58c6982d6db92a0800000000000000
+      internalID: -6729549018438007386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4834
+        width: 2314
+        height: 2366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ffcc73e8d67dac0800000000000000
+      internalID: -3830472500466352283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 4834
+        width: 2401
+        height: 2366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5fdc2740b1afe70800000000000000
+      internalID: 9149655298876503457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_6
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 4800
+        width: 2452
+        height: 2400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3212b0e1f5022360800000000000000
+      internalID: 7143278495378051645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_7
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 6858
+        width: 307
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431f51774572c230800000000000000
+      internalID: 3657614797083448133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2416
+        width: 2382
+        height: 2384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a870235fa0f6f90800000000000000
+      internalID: -6958330851041506728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 2468
+        width: 2366
+        height: 2332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a0363924b760c0800000000000000
+      internalID: -4582496006730372719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_10
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 2433
+        width: 2417
+        height: 2367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1c5b488063a0bf0800000000000000
+      internalID: -357413810208390751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_11
+      rect:
+        serializedVersion: 2
+        x: 6910
+        y: 4491
+        width: 290
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8df9e8b83c56bd0800000000000000
+      internalID: -2637487002594846522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 2520
+        height: 2385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6eb6a6a7f7f6710800000000000000
+      internalID: 1688708549035419336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutenessOverloadGif (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 33
+        width: 1046
+        height: 2367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd15a091a977150800000000000000
+      internalID: 5870330071638727632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24950bf8d87fb7b47ba75c0902562642
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

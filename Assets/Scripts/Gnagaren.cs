@@ -9,7 +9,7 @@ public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren 
     public Animator anim;
     void Start()
     {
-        aM = FindObjectOfType<AudioManager>(); // Hittar objektet AudioManager - Freja Holmgren Jakobsson (hjälp av Johan)
+        aM = FindObjectOfType<AudioManager>(); // Hittar vårat objekt AudioManager - Freja Holmgren Jakobsson (hjälp av Johan)
         health = 1;
         damage = 1;
     }

@@ -7,7 +7,7 @@ public class Skott : MonoBehaviour
     public Transform firePoint, firePoint2;
     public GameObject bulletPrefab, bullet, bullet2;
     public Rigidbody2D rb, rb2;
-    
+    private Animator anim;
     public float bulletForce = 30f;
 
     public float maxBullets = 7f;
@@ -61,6 +61,7 @@ public class Skott : MonoBehaviour
 
     IEnumerator Reloading()
     {
+        anim.SetBool("isCool", true);
         yield return new WaitForSeconds(reloadTime); //väntar i så många seunder reloadTime är satt på, Johan.
         ammo = 7f;
         haveAmmo = true;

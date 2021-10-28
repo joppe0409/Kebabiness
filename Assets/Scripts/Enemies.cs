@@ -10,6 +10,7 @@ public class Enemies : MonoBehaviour
     public GameObject[] enemies;
     public GameObject frog;
     public Vector3[] spawnPos;
+    public Vector3 frogPos;
 
     public Transform player;
     private Rigidbody2D rb;
@@ -27,7 +28,8 @@ public class Enemies : MonoBehaviour
       
         rb = this.GetComponent<Rigidbody2D>();
         StartCoroutine(SpawnEnemies());
-       
+        StartCoroutine(spawnFrog());
+
     }
 
     // Update is called once per frame
@@ -39,6 +41,7 @@ public class Enemies : MonoBehaviour
         rb.rotation = angle;
         direction.Normalize();
         movement = direction;
+        moveEnemy(movement);
     }
    
     void moveEnemy(Vector2 direction)
@@ -76,6 +79,16 @@ public class Enemies : MonoBehaviour
             yield return new WaitForSeconds(1);
         }
    
+    }
+    IEnumerator spawnFrog()
+    {
+        while (spawnTrue == true)
+        {
+            print("Ribbit");
+            Instantiate(frog, frogPos, Quaternion.identity);
+            yield return new WaitForSeconds(5);
+        }
+
     }
 
 }

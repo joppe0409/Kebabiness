@@ -5,7 +5,7 @@ using UnityEngine;
 public class Frog : Enemies
 {
     AudioManager aM;
-    public Vector3 frogPos;
+    
     public Animator anim;
     // Start is called before the first frame update
     void Start()
@@ -14,7 +14,7 @@ public class Frog : Enemies
         aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
         health = 2;
         damage = 2;
-        StartCoroutine(spawnFrog());
+       
         
     }
 
@@ -36,14 +36,5 @@ public class Frog : Enemies
 
 
     }
-    IEnumerator spawnFrog()
-    {
-        while (spawnTrue == true)
-        {
-            print("Ribbit");
-            Instantiate(frog, frogPos, Quaternion.identity);
-            yield return new WaitForSeconds(5);
-        }
-    
-    }
+   
 }

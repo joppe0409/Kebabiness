@@ -29,7 +29,7 @@ public class Dolphin : Enemies
             FindObjectOfType<AudioManager>().Play("Boom");
             ScreenShakeController.instance.startShake(.1f, .2f); // refererar till screenShakeController skriptet och startar fuktionen startShake, Johan.
             takeDamage(); // Kör funktionen takeDamage i skriptet som denna ärver från, Johan.
-            die(anim); // Kör funktionen die i arv skriptet, Johan.
+            die(); // Kör funktionen die i arv skriptet, Johan.
             //Lägg in animatorn i inspectorn (Edvin)
         }
     }

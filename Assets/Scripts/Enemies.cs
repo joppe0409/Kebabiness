@@ -55,7 +55,7 @@ public class Enemies : MonoBehaviour
 ;
     }
  
-    public virtual void die(Animator anim)
+    public virtual void die()
     {
         if(health <= 0)
         {

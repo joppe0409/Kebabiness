@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.574817, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -150,6 +150,14 @@ PrefabInstance:
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: target
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: frogPos.x
+      value: -22
+      objectReference: {fileID: 0}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: frogPos.y
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: frogPos.z

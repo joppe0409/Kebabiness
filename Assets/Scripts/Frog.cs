@@ -11,6 +11,7 @@ public class Frog : Enemies
     void Start()
     {
         
+        
         aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
         health = 2;
         damage = 2;
@@ -29,6 +30,7 @@ public class Frog : Enemies
         if (collision.collider.tag == "skott")
         {
             FindObjectOfType<AudioManager>().Play("Boom");
+            print("hej");
             ScreenShakeController.instance.startShake(.1f, .2f); // refererar till screenShakeController skriptet och startar fuktionen startShake, Johan.
             takeDamage(); // Kör funktionen takeDamage i skriptet som denna ärver från, Johan.
             die(anim); // Kör funktionen die i arv skriptet, Johan.

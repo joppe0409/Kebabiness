@@ -65,7 +65,7 @@ public class Enemies : MonoBehaviour
            
             anim.SetBool("isDead", true);
             Instantiate(floatingText, transform.position, Quaternion.identity);
-            Destroy(gameObject, 3);
+            Destroy(gameObject, 1);
         }
     }
     

@@ -104,12 +104,15 @@ MonoBehaviour:
   health: 0
   enemies: []
   frog: {fileID: 0}
+  frogBomb: {fileID: 0}
   spawnPos: []
   frogPos: {x: 0, y: 0, z: 0}
+  bombPos: {fileID: 0}
   player: {fileID: 0}
   moveSpeed: 5
   spawnTrue: 0
   damage: 0
+  points: 0
 --- !u!114 &5998556409081175046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126,12 +129,15 @@ MonoBehaviour:
   health: 2
   enemies: []
   frog: {fileID: 0}
+  frogBomb: {fileID: 0}
   spawnPos: []
   frogPos: {x: 0, y: 0, z: 0}
+  bombPos: {fileID: 0}
   player: {fileID: 0}
   moveSpeed: 5
   spawnTrue: 0
   damage: 0
+  points: 0
   anim: {fileID: 0}
 --- !u!61 &5003492236916528094
 BoxCollider2D:
@@ -215,10 +221,14 @@ MonoBehaviour:
   health: 2
   enemies: []
   frog: {fileID: 0}
+  frogBomb: {fileID: 0}
   spawnPos: []
   frogPos: {x: 0, y: 0, z: 0}
+  bombPos: {fileID: 0}
   player: {fileID: 0}
   moveSpeed: 5
   spawnTrue: 1
   damage: 0
+  points: 0
   anim: {fileID: 1564833436660236512}
+  moveForceFrog: 0

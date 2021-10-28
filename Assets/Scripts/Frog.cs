@@ -9,10 +9,18 @@ public class Frog : Enemies
     public Animator anim;
     Rigidbody2D rb;
     public float moveForceFrog;
+
+    public Transform bombPos;
+
+    public float Timer;
+    float TimerInstance;
+    public GameObject Bombgam;
     // Start is called before the first frame update
     void Start()
     {
-
+        TimerInstance = Timer;
+        bombPos = GetComponentInChildren<Transform>();
+      
         rb = FindObjectOfType<Rigidbody2D>();
         aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
         health = 2;
@@ -25,6 +33,12 @@ public class Frog : Enemies
     void Update()
     {
         rb.AddForce(Vector2.right * moveForceFrog);
+        Timer -= Time.deltaTime;
+        if(Timer <= 0)
+        {
+            Instantiate(Bombgam, bombPos.position, Quaternion.identity);
+            Timer = TimerInstance;
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

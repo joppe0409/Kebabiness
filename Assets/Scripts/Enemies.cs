@@ -11,6 +11,7 @@ public class Enemies : MonoBehaviour
     public GameObject frog;
     public Vector3[] spawnPos;
     public Vector3 frogPos;
+   
 
     public Transform player;
     private Rigidbody2D rb;
@@ -30,7 +31,7 @@ public class Enemies : MonoBehaviour
       
         rb = this.GetComponent<Rigidbody2D>();
         StartCoroutine(SpawnEnemies());
-        StartCoroutine(spawnFrog());
+        StartCoroutine(Frog());
 
     }
 
@@ -84,13 +85,14 @@ public class Enemies : MonoBehaviour
         }
    
     }
-    IEnumerator spawnFrog()
+    IEnumerator Frog()
     {
         while (spawnTrue == true)
         {
             print("Ribbit");
             Instantiate(frog, frogPos, Quaternion.identity);
             yield return new WaitForSeconds(5);
+            
         }
 
     }

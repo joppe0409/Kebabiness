@@ -128,6 +128,36 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2247190553102220603, guid: 491bbab068b4f2446aa79a78ad10aef1, type: 3}
   m_PrefabInstance: {fileID: 1998487404}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &340315231
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 340315232}
+  m_Layer: 0
+  m_Name: bombPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &340315232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340315231}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.23, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1062013402530596177}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &365713207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -151,6 +181,14 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: bombPos
+      value: 
+      objectReference: {fileID: 340315232}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: frogBomb
+      value: 
+      objectReference: {fileID: 7025593672938549303, guid: d6a2006273b5fb1458adf1a4c7f671c3, type: 3}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: frogPos.x
       value: -19
@@ -1044,6 +1082,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4761813831951350018, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
   m_PrefabInstance: {fileID: 5523765975105289291}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1062013402530596177 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4810416270535010611, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
+  m_PrefabInstance: {fileID: 5523765975105289291}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2580991801538652352
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1195,12 +1238,20 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 972532468823871568, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1062013402530596170, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
+      propertyPath: Timer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1062013402530596170, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1062013402530596170, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
+      propertyPath: Bombgam
+      value: 
+      objectReference: {fileID: 7025593672938549303, guid: d6a2006273b5fb1458adf1a4c7f671c3, type: 3}
     - target: {fileID: 1062013402530596170, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
       propertyPath: floatingText
       value: 

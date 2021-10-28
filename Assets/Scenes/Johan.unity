@@ -153,7 +153,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: frogPos.x
-      value: -22
+      value: -19
       objectReference: {fileID: 0}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: frogPos.y
@@ -1205,6 +1205,10 @@ PrefabInstance:
       propertyPath: floatingText
       value: 
       objectReference: {fileID: 3803954152701827902, guid: f46dc89720188244ea21b9cefc99a3ac, type: 3}
+    - target: {fileID: 1062013402530596170, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
+      propertyPath: moveForceFrog
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3096854810030702242, guid: 8671efbedf620a24a827835cb4fedd25, type: 3}
       propertyPath: m_Mass
       value: 10

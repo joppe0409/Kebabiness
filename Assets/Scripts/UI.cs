@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class UI : MonoBehaviour
 {
-    Image healthBar;
+    public Image healthBar;
 
     public Enemies enemies;
     public Text pointText;
@@ -13,7 +13,7 @@ public class UI : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        healthBar = GetComponent<Image>();
+       // healthBar = GetComponent<Image>();
     }
 
     // Update is called once per frame

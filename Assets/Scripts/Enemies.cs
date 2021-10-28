@@ -21,6 +21,8 @@ public class Enemies : MonoBehaviour
 
     public float damage;
 
+    public int points;
+
    
     // Start is called before the first frame update
     void Start()
@@ -42,6 +44,8 @@ public class Enemies : MonoBehaviour
         direction.Normalize();
         movement = direction;
         moveEnemy(movement);
+
+        print(points);
     }
    
     void moveEnemy(Vector2 direction)

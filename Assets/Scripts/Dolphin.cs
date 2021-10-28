@@ -34,4 +34,10 @@ public class Dolphin : Enemies
         }
     }
 
+    public override void die(Animator anim)
+    {
+        base.die(anim);
+        points += 2000;
+    }
+
 }

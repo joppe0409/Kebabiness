@@ -27,6 +27,11 @@ public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren 
 
 
     }
+    public override void die(Animator anim)
+    {
+        base.die(anim);
+        points += 20000;
+    }
 
     public void Death()
     {

@@ -7,6 +7,9 @@ public class UI : MonoBehaviour
 {
     Image healthBar;
 
+    public Enemies enemies;
+    public Text pointText;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,7 +19,7 @@ public class UI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        pointText.text = enemies.points.ToString();
     }
 
     public void SetHealthBarColor(Color healthColor)

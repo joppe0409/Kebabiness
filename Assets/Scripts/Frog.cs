@@ -40,5 +40,10 @@ public class Frog : Enemies
 
 
     }
-   
+    public override void die(Animator anim)
+    {
+        base.die(anim);
+        points += 5000;
+    }
+
 }

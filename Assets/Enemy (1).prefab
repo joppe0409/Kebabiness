@@ -32,7 +32,7 @@ Transform:
   m_GameObject: {fileID: 4761813831951350018}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -22.16, y: 6.76, z: 10}
-  m_LocalScale: {x: 2.4834952, y: 2.4834952, z: 16.556635}
+  m_LocalScale: {x: 11.505137, y: 11.505137, z: 76.70091}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -110,6 +110,7 @@ MonoBehaviour:
   moveSpeed: 5
   spawnTrue: 0
   damage: 0
+  points: 0
 --- !u!114 &5998556409081175046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -132,6 +133,7 @@ MonoBehaviour:
   moveSpeed: 5
   spawnTrue: 0
   damage: 0
+  points: 0
   anim: {fileID: 0}
 --- !u!61 &5003492236916528094
 BoxCollider2D:
@@ -221,4 +223,6 @@ MonoBehaviour:
   moveSpeed: 5
   spawnTrue: 1
   damage: 0
+  points: 0
   anim: {fileID: 1564833436660236512}
+  moveForceFrog: 0

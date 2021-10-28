@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 2580991801726536820}
   - component: {fileID: 2580991801726536821}
   - component: {fileID: 2580991801726536817}
+  - component: {fileID: -7922688234270260344}
   m_Layer: 0
   m_Name: Spelare
   m_TagString: Untagged
@@ -130,7 +131,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 2580991800480306757}
+  firePoint2: {fileID: 0}
   bulletPrefab: {fileID: 6120200784612365534, guid: 721575cb490c9114c8c573e895b0e645, type: 3}
+  bullet: {fileID: 0}
+  bullet2: {fileID: 0}
+  rb: {fileID: 0}
+  rb2: {fileID: 0}
   bulletForce: 30
   maxBullets: 7
   ammo: 7
@@ -188,3 +194,22 @@ MonoBehaviour:
   moveSpeed: 5
   rb: {fileID: 2580991801726536820}
   animator: {fileID: 0}
+--- !u!95 &-7922688234270260344
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2580991801726536816}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 676cd2e927365d1428706709b2336deb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

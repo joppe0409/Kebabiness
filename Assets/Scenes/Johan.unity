@@ -152,6 +152,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: frogPos.x
+      value: -22
+      objectReference: {fileID: 0}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
+      propertyPath: frogPos.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -6768828718704224332, guid: 61df2a58142c6c142afa7a259e301e47, type: 3}
       propertyPath: frogPos.z
       value: 10
       objectReference: {fileID: 0}
@@ -1047,11 +1055,11 @@ MonoBehaviour:
   spawnPos: []
   frogPos: {x: 0, y: 0, z: 0}
   player: {fileID: 0}
-  moveSpeed: 5
+  moveSpeed: 0
   spawnTrue: 1
   damage: 0
-  frogPos: {x: 0, y: 0, z: 0}
   anim: {fileID: 0}
+  moveForceFrog: 0.5
 --- !u!1001 &2580991801538652352
 PrefabInstance:
   m_ObjectHideFlags: 0

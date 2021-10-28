@@ -68,7 +68,7 @@ public class Enemies : MonoBehaviour
         if(health <= 0)
         {
            
-            anim.SetBool("isDead", true);
+            anim.SetBool("isDead", true); //Frejas
             Instantiate(floatingText, transform.position, Quaternion.identity);
             Destroy(gameObject, 1);
         }

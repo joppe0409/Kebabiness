@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.574817, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -550,6 +550,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2580991801726536816, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
   m_PrefabInstance: {fileID: 2580991801538652352}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &750407994 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: -7922688234270260344, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
+  m_PrefabInstance: {fileID: 2580991801538652352}
+  m_PrefabAsset: {fileID: 0}
 --- !u!70 &750407995
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -585,7 +590,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   rb: {fileID: 750407996}
-  animator: {fileID: 0}
+  animator: {fileID: 750407994}
   isInvincible: 0
   iFrames: 0
   playerHP: 5
@@ -828,7 +833,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 94
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1071,7 +1076,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2103490094}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.1, y: -5.6, z: 17.2}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
   m_LocalScale: {x: 0.39963794, y: 0.39963794, z: 0.39963794}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1196,7 +1201,7 @@ PrefabInstance:
       objectReference: {fileID: 1068546927}
     - target: {fileID: 2580991801726536818, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: reloadTime
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2580991801726536819, guid: fdd3fed710a1a6d4cbe4fcfecb929da1, type: 3}
       propertyPath: m_Size.x

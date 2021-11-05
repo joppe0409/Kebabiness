@@ -22,7 +22,7 @@ public class Enemies : MonoBehaviour
 
     public float damage;
 
-    public int points;
+    public int points = 10;
 
    
     // Start is called before the first frame update
@@ -38,6 +38,8 @@ public class Enemies : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        print("points" + points);
+        points++;
 
         Vector3 direction = player.position - transform.position;
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
@@ -46,7 +48,7 @@ public class Enemies : MonoBehaviour
         movement = direction;
         moveEnemy(movement);
 
-        print(points);
+       
     }
    
     void moveEnemy(Vector2 direction)
@@ -65,9 +67,11 @@ public class Enemies : MonoBehaviour
  
     public virtual void die(Animator anim)
     {
+        print("sadasd");
+        points += 1;
         if(health <= 0)
         {
-           
+            
             anim.SetBool("isDead", true); //Frejas
             Instantiate(floatingText, transform.position, Quaternion.identity);
             Destroy(gameObject, 1);

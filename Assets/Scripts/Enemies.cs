@@ -22,7 +22,7 @@ public class Enemies : MonoBehaviour
 
     public float damage;
 
-    public int points = 10;
+    public static int points = 0;
 
    
     // Start is called before the first frame update
@@ -38,8 +38,7 @@ public class Enemies : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print("points" + points);
-        points++;
+        print("points" + points); // -Meher
 
         Vector3 direction = player.position - transform.position;
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
@@ -67,8 +66,7 @@ public class Enemies : MonoBehaviour
  
     public virtual void die(Animator anim)
     {
-        print("sadasd");
-        points += 1;
+        
         if(health <= 0)
         {
             
@@ -76,6 +74,7 @@ public class Enemies : MonoBehaviour
             Instantiate(floatingText, transform.position, Quaternion.identity);
             Destroy(gameObject, 1);
         }
+        
     }
     
     IEnumerator SpawnEnemies()

@@ -19,7 +19,7 @@ public class UI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        pointText.text = enemies.points.ToString();
+        pointText.text = Enemies.points.ToString();
     }
 
     public void SetHealthBarColor(Color healthColor)

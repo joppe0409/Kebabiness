@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class Enemies : MonoBehaviour
 {
-    public GameObject floatingText;
+    public GameObject floatingText; // Detta är en referens till våran prefab "floatingText". - Freja Holmgren Jakobsson.
     
     public int health;
     public GameObject[] enemies;
@@ -57,7 +57,7 @@ public class Enemies : MonoBehaviour
 
     public void takeDamage()
     {
-        Instantiate(floatingText, transform.position, Quaternion.identity);
+        Instantiate(floatingText, transform.position, Quaternion.identity); //Här instaniserar jag prefaben för "floatingtext", Jag sätter den på samma position som våra enemies med hjälp av Quarternation vilket i princip är "deafult" värdet av ett objekts rotation. - Freja Holmgren Jakobsson.
         health -= 1;
         print("pang");
       
@@ -70,8 +70,8 @@ public class Enemies : MonoBehaviour
         if(health <= 0)
         {
             
-            anim.SetBool("isDead", true); //Frejas
-            Instantiate(floatingText, transform.position, Quaternion.identity);
+            anim.SetBool("isDead", true); // Här säger jag åt våran animatior att transitionen med boolen isDead ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
+            Instantiate(floatingText, transform.position, Quaternion.identity); //Här lika som förut instaniserar jag prefaben för "floatingtext", Jag sätter också den på samma position som våra enemies återigen med hjälp av Quarternation vilket, som tidigare nämnt, i princip är "deafult" värdet av ett objekts rotation. - Freja Holmgren Jakobsson.
             Destroy(gameObject, 1);
         }
         

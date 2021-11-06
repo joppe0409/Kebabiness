@@ -61,8 +61,8 @@ public class Skott : MonoBehaviour
 
     IEnumerator Reloading()
     {
-        anim.SetBool("isCool", true);
         yield return new WaitForSeconds(reloadTime); //väntar i så många seunder reloadTime är satt på, Johan.
+        anim.SetBool("isCool", true); // Här säger jag åt våran animatior att transitionen med boolen isCool ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
         ammo = 7f;
         haveAmmo = true;
     }

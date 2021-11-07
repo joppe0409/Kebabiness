@@ -63,7 +63,8 @@ public class Enemies : MonoBehaviour
       
 ;
     }
- 
+
+    // Denna funktion är en virtual så att alla fiender som ärver detta skript kan ge olika mängder poäng när de dör - Meher
     public virtual void die(Animator anim)
     {
         

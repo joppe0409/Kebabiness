@@ -27,6 +27,8 @@ public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren 
 
 
     }
+
+    // Specifik poäng för denna fiende - Meher
     public override void die(Animator anim)
     {
         base.die(anim);

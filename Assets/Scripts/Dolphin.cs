@@ -34,6 +34,7 @@ public class Dolphin : Enemies
         }
     }
 
+    // Specifik poäng för denna fiende - Meher
     public override void die(Animator anim)
     {
         base.die(anim);

@@ -6,14 +6,14 @@ using UnityEngine.SceneManagement;
 public class PauseManager : MonoBehaviour
 {
 
-    Canvas pauseMenu;
+    public GameObject pauseMenu;
     private bool isPaused = false;
 
     // Start is called before the first frame update
     void Start()
     {
-        pauseMenu = GetComponent<Canvas>();
-        pauseMenu.enabled = false;
+       // pauseMenu = GetComponent<Canvas>();
+        //pauseMenu.enabled = false;
     }
 
     // Update is called once per frame
@@ -35,7 +35,7 @@ public class PauseManager : MonoBehaviour
 
     public void Pause() 
     {
-        pauseMenu.enabled = true;
+       // pauseMenu.enabled = true;
         Time.timeScale = 0;
         isPaused = true;
         AudioListener.pause = true;
@@ -43,7 +43,7 @@ public class PauseManager : MonoBehaviour
     // Sätter på/stänger av paus kanvasen och stoppar/återupptar spelet - Meher
     public void Resume()
     {
-        pauseMenu.enabled = false;
+       // pauseMenu.enabled = false;
         Time.timeScale = 1;
         isPaused = false;
         AudioListener.pause = false;

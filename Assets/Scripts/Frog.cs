@@ -54,11 +54,11 @@ public class Frog : Enemies
 
 
     }
+    // Specifik poäng för denna fiende - Meher
     public override void die(Animator anim)
     {
         base.die(anim);
         points += 500;
-        print("PRINT");
     }
 
 }

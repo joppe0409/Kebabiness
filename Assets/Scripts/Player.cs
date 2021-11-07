@@ -18,6 +18,7 @@ public class Player : MonoBehaviour
     [SerializeField]
     private float iFrames;
     public float playerHP;
+
     public UI ui; // Refererar till UI skriptet för att använda funktioner för att ändra på health bar - Meher
 
     public void Start()
@@ -52,14 +53,10 @@ public class Player : MonoBehaviour
         }
         transform.localScale = characterScale;*/
 
+        // När spelaren dör används funktionen från "UI" för att hämta DeathScreen - Meher
         if (playerHP <= 0)
         {
-            PlayerDeath();
-        }
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage();
+            ui.PlayerDeath();
         }
 
     }
@@ -71,26 +68,23 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        // Får spelaren att ta skada om den nuddar en fiende, och förstör fienden - Meher
         if (collision.gameObject.tag == "enemy")
         {
+            Destroy(collision.gameObject);
             TakeDamage();
         }
     }
-    
-    public void TakeDamage() // Funktion som både ändrar på healthbaren och hp variabeln på spelaren - Meher
+    // Funktion som både ändrar på healthbaren och hp variabeln på spelaren - Meher
+    public void TakeDamage() 
     {
         if (isInvincible == true) return;
         playerHP--;
-        ui.UpdateHealth(ui.getHealth() - 0.2f);
-
+        ui.UpdateHealth(ui.getHealth() - 0.2f); // Tar ned värdet med en femtedel så att man får 5HP - Meher
         StartCoroutine(InvincibilityFrames());
     }
 
-    public void PlayerDeath() // Funktion som kallas på när spelaren dör - Meher
-    {
-        SceneManager.LoadScene("MainMenu");
-    }
-
+    // IEnumerator som får spelaren att vara odödlig i en viss mängd tid som man kan ändra på inspektorn - Meher
     private IEnumerator InvincibilityFrames()
     {
         isInvincible = true;

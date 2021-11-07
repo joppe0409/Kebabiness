@@ -2,27 +2,55 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class UI : MonoBehaviour
 {
-    public Image healthBar;
+    private bool isPaused;
 
-    public Enemies enemies;
+    // Dessa variabler sätts in i inspektorn om inte redan i prefab - Meher
+    public Image healthBar;
     public Text pointText;
 
-    // Start is called before the first frame update
+    public Enemies enemies; 
+
+    public GameObject HP;
+    public GameObject deathScreen;
+    public GameObject pauseMenu;
+    
     void Start()
     {
-       // healthBar = GetComponent<Image>();
+        // Sätter på och stänger av allt som behövs vid början av spelet - Meher
+
+        deathScreen.SetActive(false);
+        HP.SetActive(true);
+        pauseMenu.SetActive(false);
+
+        isPaused = false;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        pointText.text = Enemies.points.ToString();
+        // Skriver ut den poäng man får, detta används i DeathScreen - Meher
+        pointText.text = "Points: " + Enemies.points.ToString();
+
+        // Ser till så att spelet går att pausas och återupptas genom att trycka på Escape knappen. Använder en boule för att bestämma vad som sker - Meher
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (isPaused == false)
+            {
+                Pause();
+            }
+
+            else if (isPaused == true)
+            {
+                Resume();
+            }
+        } 
     }
 
-    public void SetHealthBarColor(Color healthColor)
+    // HealthBar funktioner - Meher
+    public void SetHealthBarColor(Color healthColor) // Ändrar på värdet av healthbar - Meher
     {
         healthBar.color = healthColor;
     }
@@ -47,7 +75,40 @@ public class UI : MonoBehaviour
         {
             SetHealthBarColor(Color.green);
         }
-
     }
- 
+
+    // Funktion som kallas i "Player" skriptet när spelaren "dör" - Meher
+    public void PlayerDeath()
+    {
+        deathScreen.SetActive(true);
+        HP.SetActive(false);
+        Time.timeScale = 0;
+        AudioListener.pause = true;
+    }
+
+    // Funktioner för att sätta på och stänga av pausmenyn, används även för knappar - Meher
+    public void Pause()
+    {
+        pauseMenu.SetActive(true);  
+        Time.timeScale = 0;
+        isPaused = true;
+        AudioListener.pause = true;
+        HP.SetActive(false);
+    }
+   
+    public void Resume()
+    {
+        pauseMenu.SetActive(false);
+        Time.timeScale = 1;
+        isPaused = false;
+        AudioListener.pause = false;
+        HP.SetActive(true);
+    }
+
+    // Funktioner som används för buttons - Meher
+    public void MainMenu() // Går till start menyn - Meher
+    {
+        SceneManager.LoadScene("MainMenu");
+        Time.timeScale = 1;
+    }
 }

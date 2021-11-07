@@ -94,7 +94,7 @@ public class Enemies : MonoBehaviour
         {
             print("Ribbit");
             Instantiate(frog, frogPos, Quaternion.identity);
-            yield return new WaitForSeconds(5);
+            yield return new WaitForSeconds(10);
             
         }
 

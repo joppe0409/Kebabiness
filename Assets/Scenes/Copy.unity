@@ -1588,5 +1588,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: bombParticle
       objectReference: {fileID: 0}
+    - target: {fileID: 6944097140180966415, guid: 7d7b15aa27b6862449ae1ba03da2e04d, type: 3}
+      propertyPath: playOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6944097140180966415, guid: 7d7b15aa27b6862449ae1ba03da2e04d, type: 3}
+      propertyPath: LightsModule.light
+      value: 
+      objectReference: {fileID: 1629755792}
+    - target: {fileID: 6944097140180966415, guid: 7d7b15aa27b6862449ae1ba03da2e04d, type: 3}
+      propertyPath: LightsModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6944097140180966415, guid: 7d7b15aa27b6862449ae1ba03da2e04d, type: 3}
+      propertyPath: ShapeModule.m_Texture
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6944097140180966415, guid: 7d7b15aa27b6862449ae1ba03da2e04d, type: 3}
+      propertyPath: InitialModule.gravityModifier.scalar
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d7b15aa27b6862449ae1ba03da2e04d, type: 3}

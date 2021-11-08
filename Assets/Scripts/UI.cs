@@ -83,6 +83,7 @@ public class UI : MonoBehaviour
         deathScreen.SetActive(true);
         HP.SetActive(false);
         Time.timeScale = 0;
+      
         AudioListener.pause = true;
     }
 
@@ -109,6 +110,7 @@ public class UI : MonoBehaviour
     public void MainMenu() // Går till start menyn - Meher
     {
         Time.timeScale = 1;
+        AudioListener.pause = false;
         SceneManager.LoadScene("MainMenu");
         
     }

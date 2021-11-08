@@ -25,11 +25,13 @@ public class Player : MonoBehaviour
     {
         playerHP = 5;
         ui.UpdateHealth(1); // Sätter värdet på healthbaren till 1 - Meher
+        Time.timeScale = 1;
     }
 
 
     void Update()
     {
+      
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 

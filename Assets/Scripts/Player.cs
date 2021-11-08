@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
 
+    AudioManager aM;
     Vector2 movement;
 
     // Variabler för spelarens hp - Meher
@@ -23,9 +24,12 @@ public class Player : MonoBehaviour
 
     public void Start()
     {
+        aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
+
         playerHP = 5;
         ui.UpdateHealth(1); // Sätter värdet på healthbaren till 1 - Meher
         Time.timeScale = 1;
+        FindObjectOfType<AudioManager>().Play("låt");
     }
 
 

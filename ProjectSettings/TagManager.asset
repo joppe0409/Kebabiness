@@ -6,6 +6,7 @@ TagManager:
   tags:
   - skott
   - enemy
+  - player
   layers:
   - Default
   - TransparentFX

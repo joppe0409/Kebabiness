@@ -52,6 +52,8 @@ public class Frog : Enemies
             die(anim); // Kör funktionen die i arv skriptet, Johan.
         }
 
+      
+
 
     }
     // Specifik poäng för denna fiende - Meher

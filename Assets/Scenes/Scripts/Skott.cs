@@ -20,7 +20,7 @@ public class Skott : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -61,10 +61,11 @@ public class Skott : MonoBehaviour
 
     IEnumerator Reloading()
     {
+        anim.SetBool("isCool", true); // Här säger jag åt våran animatior att transitionen med boolen isCool ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
         yield return new WaitForSeconds(1); //väntar i så många seunder reloadTime är satt på, Johan.
-        //anim.SetBool("isCool", true); // Här säger jag åt våran animatior att transitionen med boolen isCool ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
         ammo = 7f;
         haveAmmo = true;
+        anim.SetBool("isCool", false); // Här säger jag åt våran animatior att transitionen med boolen isCool ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
     }
 
 

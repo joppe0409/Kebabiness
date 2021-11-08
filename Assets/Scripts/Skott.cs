@@ -12,7 +12,7 @@ public class Skott : MonoBehaviour
 
     public float maxBullets = 7f;
     public float ammo = 7f;
-    public float reloadTime = 10f;
+    public float reloadTime;
     public bool haveAmmo = true;
 
 
@@ -61,8 +61,8 @@ public class Skott : MonoBehaviour
 
     IEnumerator Reloading()
     {
-        yield return new WaitForSeconds(reloadTime); //väntar i så många seunder reloadTime är satt på, Johan.
-        anim.SetBool("isCool", true); // Här säger jag åt våran animatior att transitionen med boolen isCool ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
+        yield return new WaitForSeconds(1); //väntar i så många seunder reloadTime är satt på, Johan.
+        //anim.SetBool("isCool", true); // Här säger jag åt våran animatior att transitionen med boolen isCool ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
         ammo = 7f;
         haveAmmo = true;
     }

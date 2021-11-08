@@ -108,7 +108,8 @@ public class UI : MonoBehaviour
     // Funktioner som används för buttons - Meher
     public void MainMenu() // Går till start menyn - Meher
     {
-        SceneManager.LoadScene("MainMenu");
         Time.timeScale = 1;
+        SceneManager.LoadScene("MainMenu");
+        
     }
 }

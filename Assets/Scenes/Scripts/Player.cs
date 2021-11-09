@@ -35,7 +35,7 @@ public class Player : MonoBehaviour
         FindObjectOfType<AudioManager>().Play("låt");
     }
 
-
+    
     void Update()
     {
       

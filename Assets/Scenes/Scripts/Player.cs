@@ -20,6 +20,9 @@ public class Player : MonoBehaviour
     private float iFrames;
     public float playerHP;
 
+    public GameObject player;
+    public ParticleSystem explosion;
+
     public UI ui; // Refererar till UI skriptet för att använda funktioner för att ändra på health bar - Meher
 
     public void Start()
@@ -77,9 +80,12 @@ public class Player : MonoBehaviour
         // Får spelaren att ta skada om den nuddar en fiende, och förstör fienden - Meher
         if (collision.gameObject.tag == "enemy")
         {
+            Instantiate(explosion, player.transform.position, Quaternion.identity);
+            FindObjectOfType<AudioManager>().Play("explosionSound");
             Destroy(collision.gameObject);
             TakeDamage();
         }
+
     }
     // Funktion som både ändrar på healthbaren och hp variabeln på spelaren - Meher
     public void TakeDamage() 

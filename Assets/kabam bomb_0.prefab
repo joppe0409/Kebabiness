@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 900027530448468405}
   - component: {fileID: -111556480182819557}
   - component: {fileID: -8929599951734322749}
+  - component: {fileID: 2577253997093769563}
   m_Layer: 0
   m_Name: kabam bomb_0
   m_TagString: enemy
@@ -121,3 +122,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &2577253997093769563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7025593672938549303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c4f470115fa0034c96633351616ad32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosion: {fileID: 4055781034131722977, guid: 2d1469b2cdf766f4aa69511b8bfbae5a, type: 3}
+  bomb: {fileID: 7025593672938549303}

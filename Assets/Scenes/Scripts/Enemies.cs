@@ -73,7 +73,7 @@ public class Enemies : MonoBehaviour
             
             anim.SetBool("isDead", true); // Här säger jag åt våran animatior att transitionen med boolen isDead ska starta samt att kommande animation skall spelas. - Freja Holmgren Jakobsson
             Instantiate(floatingText, transform.position, Quaternion.identity); //Här lika som förut instaniserar jag prefaben för "floatingtext", Jag sätter också den på samma position som våra enemies återigen med hjälp av Quarternation vilket, som tidigare nämnt, i princip är "deafult" värdet av ett objekts rotation. - Freja Holmgren Jakobsson.
-            Destroy(gameObject, 1);
+            Destroy(gameObject, 0.5f);
         }
         
     }

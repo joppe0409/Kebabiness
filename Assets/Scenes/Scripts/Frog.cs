@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Frog : Enemies
 {
+    Collider2D col;
+
     AudioManager aM;
     
     public Animator anim;
@@ -18,6 +20,8 @@ public class Frog : Enemies
     // Start is called before the first frame update
     void Start()
     {
+        col = GetComponent<BoxCollider2D>(); // Hämtar hitboxen av fienden - Meher
+
         TimerInstance = Timer;
         bombPos = GetComponentInChildren<Transform>();
       
@@ -56,11 +60,12 @@ public class Frog : Enemies
 
 
     }
-    // Specifik poäng för denna fiende - Meher
+    // Ändrar på fiendens poäng och collider - Meher
     public override void die(Animator anim)
     {
         base.die(anim);
         points += 500;
+        col.enabled = false;
     }
 
 }

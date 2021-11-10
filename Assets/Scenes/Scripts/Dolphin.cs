@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Dolphin : Enemies
 {
+    Collider2D col;
 
     AudioManager aM;
 
@@ -11,6 +12,8 @@ public class Dolphin : Enemies
     // Start is called before the first frame update
     void Start()
     {
+        
+        col = GetComponent<BoxCollider2D>(); // Hämtar hitboxen av fienden - Meher
         aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
         health = 1;
         damage = 1;
@@ -34,11 +37,13 @@ public class Dolphin : Enemies
         }
     }
 
-    // Specifik poäng för denna fiende - Meher
+    // Ändrar på fiendens poäng och collider - Meher
     public override void die(Animator anim)
     {
         base.die(anim);
         points += 2000;
+        col.enabled = false;
+
     }
 
 }

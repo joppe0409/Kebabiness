@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren Jakobsson
 {
+    Collider2D col;
+
     AudioManager aM; // referens till våran audiomanager. - Freja Holmgren Jakobsson.
 
     public Animator anim; //referens till våran animator. - Freja Holmgren Jakobsson.
     void Start()
     {
+        col = GetComponent<BoxCollider2D>(); // Hämtar hitboxen av fienden - Meher
         aM = FindObjectOfType<AudioManager>(); // Hittar objektet vid namn AudioManager - Freja Holmgren Jakobsson (hjälp av Johan)
         health = 1; // Här stätter vi helth till 1. - Freja Holmgren Jakobsson.
         damage = 1;
@@ -28,11 +31,12 @@ public class Gnagaren : Enemies //Ärver ifrån Enemies scriptet - Freja Holmgren 
 
     }
 
-    // Specifik poäng för denna fiende - Meher
+    // Ändrar på fiendens poäng och collider - Meher
     public override void die(Animator anim)
     {
         base.die(anim);
         points += 20000;
+        col.enabled = false;
     }
 
     public void Death()

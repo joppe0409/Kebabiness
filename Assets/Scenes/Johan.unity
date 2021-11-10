@@ -2070,3 +2070,8 @@ MonoBehaviour:
     volume: 0.444
     pitch: 1.1
     source: {fileID: 0}
+  - name: "MenyL\xE5t"
+    clip: {fileID: 8300000, guid: a58dc7f19c0325e45b89ea98612c9866, type: 3}
+    volume: 0.444
+    pitch: 1.1
+    source: {fileID: 0}

@@ -27,7 +27,7 @@ public class Frog : Enemies
       
         rb = FindObjectOfType<Rigidbody2D>();
         aM = FindObjectOfType<AudioManager>(); // hittar AudioManager objektet, Johan.
-        health = 2;
+        health = 1;
         damage = 2;
        
         

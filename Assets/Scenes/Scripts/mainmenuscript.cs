@@ -8,6 +8,7 @@ public class mainmenuscript : MonoBehaviour
     private void Start()
     {
         Time.timeScale = 1;
+        AudioListener.pause = false;
     }
     public void quitGame() 
     {
